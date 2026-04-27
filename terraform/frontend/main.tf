@@ -5,6 +5,10 @@ terraform {
       source  = "hashicorp/google"
       version = "~> 6.0"
     }
+    google-beta = {
+      source  = "hashicorp/google-beta"
+      version = "~> 6.0"
+    }
   }
 }
 
@@ -13,8 +17,17 @@ provider "google" {
   region  = var.gcp_region
 }
 
-data "google_project" "current" {
-  project_id = var.gcp_project_id
+provider "google-beta" {
+  project = var.gcp_project_id
+  region  = var.gcp_region
+}
+
+resource "google_project_service_identity" "run" {
+  provider = google-beta
+  project  = var.gcp_project_id
+  service  = "run.googleapis.com"
+
+  depends_on = [google_project_service.run]
 }
 
 # --- Enable required APIs ---
@@ -50,7 +63,9 @@ resource "google_artifact_registry_repository_iam_member" "frontend_reader" {
   location   = google_artifact_registry_repository.frontend.location
   repository = google_artifact_registry_repository.frontend.name
   role       = "roles/artifactregistry.reader"
-  member     = "serviceAccount:service-${data.google_project.current.number}@serverless-robot-prod.iam.gserviceaccount.com"
+  member     = "serviceAccount:${google_project_service_identity.run.email}"
+
+  depends_on = [google_project_service_identity.run]
 }
 
 # --- Secret Manager ---
@@ -82,8 +97,9 @@ resource "google_secret_manager_secret_iam_member" "frontend_secret_accessor" {
 
 # --- Cloud Run (frontend) ---
 resource "google_cloud_run_v2_service" "frontend" {
-  name     = "litigation-frontend"
-  location = var.gcp_region
+  name                = "litigation-frontend"
+  location            = var.gcp_region
+  deletion_protection = false
 
   template {
     service_account = google_service_account.frontend_runtime.email

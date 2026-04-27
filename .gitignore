@@ -47,6 +47,7 @@ backend/*.db
 terraform.tfstate.d/
 *.tfstate
 *.tfstate.backup
+terraform/**/*.backup
 
 # Coverage
 backend/*.coverage

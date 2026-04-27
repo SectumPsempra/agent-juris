@@ -60,7 +60,11 @@ db_version = "POSTGRES_15"
 ```hcl
 gcp_project_id = "agent-juris"
 gcp_region     = "europe-west1"
-openai_api_key = "sk-proj-<your-openai-key>"
+
+# Set at least one provider key:
+# openai_api_key = "sk-proj-<your-openai-key>"
+openrouter_api_key = "sk-or-v1-<your-openrouter-key>"
+
 openai_model   = "gpt-4o"
 clerk_jwks_url = "https://<your-clerk-instance>.clerk.accounts.dev/.well-known/jwks.json"
 clerk_issuer   = "https://<your-clerk-instance>.clerk.accounts.dev"

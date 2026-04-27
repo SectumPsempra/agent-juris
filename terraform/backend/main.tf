@@ -5,6 +5,10 @@ terraform {
       source  = "hashicorp/google"
       version = "~> 6.0"
     }
+    google-beta = {
+      source  = "hashicorp/google-beta"
+      version = "~> 6.0"
+    }
   }
 }
 
@@ -13,8 +17,17 @@ provider "google" {
   region  = var.gcp_region
 }
 
-data "google_project" "current" {
-  project_id = var.gcp_project_id
+provider "google-beta" {
+  project = var.gcp_project_id
+  region  = var.gcp_region
+}
+
+resource "google_project_service_identity" "run" {
+  provider = google-beta
+  project  = var.gcp_project_id
+  service  = "run.googleapis.com"
+
+  depends_on = [google_project_service.run]
 }
 
 # --- Enable required APIs ---
@@ -51,7 +64,9 @@ resource "google_artifact_registry_repository_iam_member" "backend_reader" {
   location   = google_artifact_registry_repository.backend.location
   repository = google_artifact_registry_repository.backend.name
   role       = "roles/artifactregistry.reader"
-  member     = "serviceAccount:service-${data.google_project.current.number}@serverless-robot-prod.iam.gserviceaccount.com"
+  member     = "serviceAccount:${google_project_service_identity.run.email}"
+
+  depends_on = [google_project_service_identity.run]
 }
 
 locals {
@@ -70,15 +85,32 @@ locals {
     LANGFUSE_SECRET_KEY = var.langfuse_secret_key
     LANGFUSE_HOST       = var.langfuse_host
   }
+
+  # Secret Manager versions require a non-empty payload.
+  # Keep for_each keys non-sensitive to satisfy Terraform constraints.
+  backend_secret_keys_nonempty = toset([
+    for k, v in local.backend_secret_values : k
+    if trimspace(nonsensitive(tostring(v))) != ""
+  ])
+}
+
+check "llm_provider_configured" {
+  assert {
+    condition = (
+      trimspace(var.openai_api_key) != "" ||
+      trimspace(var.openrouter_api_key) != ""
+    )
+    error_message = "Set at least one LLM key: openai_api_key or openrouter_api_key."
+  }
 }
 
 # --- Secret Manager ---
 # In GCP, Cloud Run can only map an env var to an entire secret string (no JSON key selection),
 # so we store each env var as its own secret.
 resource "google_secret_manager_secret" "backend" {
-  for_each = local.backend_secret_values
+  for_each = local.backend_secret_keys_nonempty
 
-  secret_id = "${var.project_name}-backend-${lower(replace(each.key, "_", "-"))}"
+  secret_id = "${var.project_name}-backend-${lower(replace(each.value, "_", "-"))}"
 
   replication {
     auto {}
@@ -88,10 +120,10 @@ resource "google_secret_manager_secret" "backend" {
 }
 
 resource "google_secret_manager_secret_version" "backend" {
-  for_each = local.backend_secret_values
+  for_each = local.backend_secret_keys_nonempty
 
   secret      = google_secret_manager_secret.backend[each.key].id
-  secret_data = tostring(each.value)
+  secret_data = tostring(local.backend_secret_values[each.key])
 }
 
 # Reference the DATABASE_URL secret created by terraform/database
@@ -124,6 +156,7 @@ resource "google_secret_manager_secret_iam_member" "backend_db_secret_accessor" 
 resource "google_cloud_run_v2_service" "backend" {
   name     = "litigation-backend"
   location = var.gcp_region
+  deletion_protection = false
 
   template {
     service_account = google_service_account.backend_runtime.email
@@ -132,7 +165,7 @@ resource "google_cloud_run_v2_service" "backend" {
       image = "${var.gcp_region}-docker.pkg.dev/${var.gcp_project_id}/${google_artifact_registry_repository.backend.repository_id}/litigation-backend:latest"
 
       ports {
-        container_port = 8000
+        container_port = 8080
       }
 
       env {
@@ -140,133 +173,16 @@ resource "google_cloud_run_v2_service" "backend" {
         value = "production"
       }
 
-      # Read individual keys from Secret Manager
-      env {
-        name = "OPENAI_API_KEY"
-        value_source {
-          secret_key_ref {
-            secret  = google_secret_manager_secret.backend["OPENAI_API_KEY"].secret_id
-            version = "latest"
-          }
-        }
-      }
-
-      env {
-        name = "OPENROUTER_API_KEY"
-        value_source {
-          secret_key_ref {
-            secret  = google_secret_manager_secret.backend["OPENROUTER_API_KEY"].secret_id
-            version = "latest"
-          }
-        }
-      }
-
-      env {
-        name = "MODEL"
-        value_source {
-          secret_key_ref {
-            secret  = google_secret_manager_secret.backend["MODEL"].secret_id
-            version = "latest"
-          }
-        }
-      }
-
-      env {
-        name = "CLERK_JWKS_URL"
-        value_source {
-          secret_key_ref {
-            secret  = google_secret_manager_secret.backend["CLERK_JWKS_URL"].secret_id
-            version = "latest"
-          }
-        }
-      }
-
-      env {
-        name = "CLERK_ISSUER"
-        value_source {
-          secret_key_ref {
-            secret  = google_secret_manager_secret.backend["CLERK_ISSUER"].secret_id
-            version = "latest"
-          }
-        }
-      }
-
-      env {
-        name = "ALLOWED_ORIGINS"
-        value_source {
-          secret_key_ref {
-            secret  = google_secret_manager_secret.backend["ALLOWED_ORIGINS"].secret_id
-            version = "latest"
-          }
-        }
-      }
-
-      env {
-        name = "PINECONE_API_KEY"
-        value_source {
-          secret_key_ref {
-            secret  = google_secret_manager_secret.backend["PINECONE_API_KEY"].secret_id
-            version = "latest"
-          }
-        }
-      }
-
-      env {
-        name = "PINECONE_INDEX_HOST"
-        value_source {
-          secret_key_ref {
-            secret  = google_secret_manager_secret.backend["PINECONE_INDEX_HOST"].secret_id
-            version = "latest"
-          }
-        }
-      }
-
-      env {
-        name = "PINECONE_INDEX_NAME"
-        value_source {
-          secret_key_ref {
-            secret  = google_secret_manager_secret.backend["PINECONE_INDEX_NAME"].secret_id
-            version = "latest"
-          }
-        }
-      }
-
-      env {
-        name = "PINECONE_NAMESPACE"
-        value_source {
-          secret_key_ref {
-            secret  = google_secret_manager_secret.backend["PINECONE_NAMESPACE"].secret_id
-            version = "latest"
-          }
-        }
-      }
-
-      env {
-        name = "LANGFUSE_PUBLIC_KEY"
-        value_source {
-          secret_key_ref {
-            secret  = google_secret_manager_secret.backend["LANGFUSE_PUBLIC_KEY"].secret_id
-            version = "latest"
-          }
-        }
-      }
-
-      env {
-        name = "LANGFUSE_SECRET_KEY"
-        value_source {
-          secret_key_ref {
-            secret  = google_secret_manager_secret.backend["LANGFUSE_SECRET_KEY"].secret_id
-            version = "latest"
-          }
-        }
-      }
-
-      env {
-        name = "LANGFUSE_HOST"
-        value_source {
-          secret_key_ref {
-            secret  = google_secret_manager_secret.backend["LANGFUSE_HOST"].secret_id
-            version = "latest"
+      # Read only configured env vars from Secret Manager.
+      dynamic "env" {
+        for_each = google_secret_manager_secret.backend
+        content {
+          name = env.key
+          value_source {
+            secret_key_ref {
+              secret  = env.value.secret_id
+              version = "latest"
+            }
           }
         }
       }

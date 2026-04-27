@@ -16,9 +16,10 @@ variable "project_name" {
 }
 
 variable "openai_api_key" {
-  description = "OpenAI API Key"
+  description = "Optional OpenAI API Key (set this or openrouter_api_key)"
   type        = string
   sensitive   = true
+  default     = ""
 }
 
 variable "openrouter_api_key" {
