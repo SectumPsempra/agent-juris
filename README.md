@@ -503,18 +503,6 @@ All LLM calls use OpenAI `gpt-4o` (or the equivalent model on OpenRouter). Embed
 
 ---
 
-## Team Contributions
-
-| Name | Role |
-|------|------|
-| **Rithwik** | FastAPI backend architecture, agent orchestration, AI integration |
-| **John** | Next.js frontend (App Router), Clerk integration (auth + billing UI) |
-| **Amit** | RAG pipeline, legal dataset ingestion + embeddings |
-| **Damola** | Agent design (prompts + reasoning flow), QA agent logic |
-| **Sodiq** | Deployment (GCP Cloud Run + Cloud SQL), database setup, logging + monitoring |
-
----
-
 ## Documentation
 
 - [backend/README.md](./backend/README.md) -- Python layout, dependencies, and local run instructions
