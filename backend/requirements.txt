@@ -1,0 +1,13 @@
+fastapi>=0.115.0
+pydantic>=2.11.0
+pydantic-settings>=2.8.0
+sqlalchemy>=2.0.40
+uvicorn[standard]>=0.32.0
+openai>=1.0.0
+sqlalchemy[asyncio]>=2.0.0
+pydantic-settings>=2.0.0
+python-multipart>=0.0.9
+aiosqlite>=0.19.0
+pypdf>=5.0.0
+pinecone>=5.0.0
+langfuse>=2.0.0

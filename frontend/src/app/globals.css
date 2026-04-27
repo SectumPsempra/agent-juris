@@ -1,0 +1,11 @@
+:root {
+  color-scheme: light dark;
+}
+
+html,
+body {
+  max-width: 100vw;
+  min-height: 100%;
+  margin: 0;
+  font-family: system-ui, sans-serif;
+}

@@ -1,0 +1,2853 @@
+The Employment Act, 2007
+THE EMPLOYMENT ACT, 2007
+ARRANGEMENT OF SECTIONS
+Sections
+PART ― PRELIMINARY
+1―Short title and commencement.
+2―Interpretation
+3― Application.
+PART II ― GENERAL PRINCIPLES
+4― Prohibition against forced labour.
+5― Discrimination in employment.
+6―Sexual harassment.
+PART III ― EMPLOYMENT RELATIONSHIP
+7―Contract of service.
+8―Oral and written contracts.
+9―General provision of contract of service.
+10―Employment particulars.
+11―Statement of initial particulars.
+12―Statement on disciplinary rules.
+13―Statement of changes.
+14―Reasonably accessible document or collective agreement.
+15―Informing employees of their rights.
+PART IV ― PROTECTION OF WAGES
+16― Enforcement.
+17― Payment, disposal and recovery of wages, allowances, etc.
+18― When wages or salaries due.
+19― Deduction of wages.
+20― Itemised pay statement.
+21― Statement of statutory deductions
+22― Power to amend provisions on pay and statements of deductions.
+23― Security bond for wages.
+24― Death of an employee.
+1
+The Employment Act, 2007
+25― Repayment of remuneration wrongfully withheld or deducted.
+PART V― RIGHTS AND DUTIES IN EMPLOYMENT
+26 ―Basic minimum conditions of employment.
+27―Hours of work.
+28―Annual leave.
+29―Maternity leave.
+30― Sick leave.
+31― Housing.
+32― Water.
+33― Food.
+34― Medical attention.
+PART VI ― TERMINATION AND DISMISSAL
+35―Termination notice.
+36― Payment in lieu of notice.
+37― Conversion of casual employment to term contract.
+38― Waiver of notice by employer.
+39― Contract expiring on a journey may be extended.
+40― Termination on account of redundancy.
+41― Notification and hearing before termination on grounds of
+misconduct.
+42― Termination of probationary contracts.
+43― Proof of reason for termination.
+44― Summary dismissal.
+45― Unfair termination.
+46― Reasons for termination or discipline.
+47― Complaint of summary dismissal and unfair termination.
+48― Representation.
+49― Remedies for wrongful dismissal and unfair termination.
+50― Courts to be guided.
+51― Certificate of service.
+PART VII ― PROTECTION OF CHILDREN
+52― Interpretation.
+53― Prohibition of worst forms of child labour.
+54― Complaint to the labour officer or police officer.
+55― Powers of labour officer to cancel and prohibit contracts.
+2
+The Employment Act, 2007
+56― Prohibition of employment of children between thirteen years and
+sixteen years of age.
+57― Prohibition of written contracts for child between thirteen and sixteen
+years of age.
+58― Restriction in employing child of between thirteen and sixteen years
+of age to attend machinery.
+59― Time restriction in employing a child.
+60― Emergencies.
+61― Registers of child in employment.
+62― Medical examination of a child employee.
+63― Determination of Age.
+64― Penalty for unlawful employment of child.
+65―Penalty in case of death or injury.
+PART VIII ― INSOLVENCY OF EMPLOYER
+66― Insolvency of employer.
+67― Definition of insolvency.
+68―Debts to which Part applies.
+69― Limitation on amount payable under section 68.
+70― Role of relevant officer.
+71―Complaint to Industrial Court.
+72― Transfer of rights and remedies.
+73― Power to obtain information.
+PART IX ― EMPLOYMENT RECORDS
+74― Records to be kept by employer.
+75― False entries etc.
+PART X ― EMPLOYMENT MANAGEMENT
+76― Notification of vacancies.
+77― Notification of filling or abolition of post.
+78― Notification of termination of employment.
+79― Register of employees.
+80― Exemptions.
+81― Offence under Part.
+3
+The Employment Act, 2007
+PART XI ― FOREIGN CONTRACTS OF SERVICE
+82―Application of Part.
+83―Form and attestation.
+84― Requirement before attestation.
+85― Security in foreign contract of service.
+86― Offence to induce person to proceed abroad under informal contract.
+PART XII ― DISPUTES SETTLEMENT PROCEDURE
+87― Complaint and jurisdiction in cases of dispute between employers
+and employees.
+88― General penalty and offences under other laws.
+89― Saving of Contracts of service made abroad.
+90― Limitations.
+PART XIII ― MISCELLANEOUS PROVISIONS
+91― Rules.
+92― Repeal of Cap.226 and savings
+93― Transitional Provision.
+4
+The Employment Act, 2007
+Short title and
+commencement.
+Interpretation. AN ACT of Parliament to repeal the Employment Act,
+declare and define the fundamental rights of
+employees, to provide basic conditions of
+employment of employees, to regulate
+employment of children, and to provide for
+matters connected with the foregoing.
+ENACTED by the Parliament of Kenya, as follows―
+PART 1 ― PRELIMINARY
+1. This Act may be cited as the Employment Act, 2007,
+and shall come into operation on such date as the Minister
+may, by notice in the Gazette, appoint.
+2. In this Act, unless the context otherwise requires-
+“authorised officer” means a labour officer,
+employment officer or medical officer;
+“Board” means the National Labour Board;
+“casual employee” means a person the terms of whose
+engagement provide for his payment at the end of each day
+and who is not engaged for a longer period than twenty four
+hours at a time;
+“child” means a person who has not attained the age of
+eighteen years;
+“collective agreement” means a registered agreement
+concerning any terms and conditions of employment made in
+writing between a trade union and an employer, group of
+employers or employers’ organization”;
+“contract of service” means an agreement, whether
+oral or in writing, and whether expressed or implied, to
+employ or to serve as an employee for a period of time, and
+includes a contract of apprenticeship and indentured
+5
+The Employment Act, 2007
+learnership but does not include a foreign contract of service
+to which Part XI of this Act applies;
+“dependent” means a member of an employee’s family
+or a relative who substantially depends on that employee for
+his livelihood;
+“Director” means a person appointed as the Director
+of Employment;
+“disability” means a physical, sensory, mental or other
+impairment, including any visual, hearing, learning or
+physical incapability, which impacts adversely on a person’s
+social and economic participation;
+“employee” means a person employed for wages or a
+salary and includes an apprentice and indentured learner;
+“employer” means any person, public body, firm,
+corporation or company who or which has entered into a
+contract of service to employ any individual and includes the
+agent, foreman, manager or factor of such person, public
+body, firm, corporation or company;
+“forced or compulsory labour” means any work or
+service which is extracted from any person under the threat of
+any penalty ,including the threat of a loss of rights or
+privileges, which is not offered voluntarily by the person
+doing the work or performing the service;
+“HIV” means the Human Immune-Deficiency Virus;
+“industrial undertaking” includes―
+(a) a mine, quarry and other works for the
+extraction of any substance from the surface or
+under the surface of the earth;
+(b) a factory or a place where raw materials are
+manufactured, processed or packaged;
+6
+The Employment Act, 2007
+(c) the construction, reconstruction, maintenance,
+repair, alteration or demolition of any building,
+railway, tramway, harbour, dock, pier, canal,
+inland water way, road, tunnel, bridge, viaduct,
+sewer, drain, well, telegraphic or telephone
+installation, electrical undertaking, gas work,
+water work or other work of construction, as
+well as the preparation for or laying of the
+foundations of any such work or structure; or
+(d) transport of passengers or goods by road, rail,
+or inland waterway, including the handling of
+goods at docks, quays, wharves and
+warehouses, but excluding transport by hand:
+Provided that―
+(i) the Minister, if he sees fit so to do, having
+regard to the nature of the work involved in
+any employment carried on in any industrial
+undertaking, may by order declare that the
+employment shall be excluded from the
+provisions of this Part relating to industrial
+undertakings, and thereupon the employment
+shall be deemed not to be employment in an
+industrial undertaking for the purposes of this
+Part;
+(ii) an undertaking of which a part only is an
+industrial undertaking shall not for that reason
+alone be deemed to be an industrial
+undertaking;
+“labour inspector” means a person appointed as a
+labour inspector;
+“labour officer” means a person appointed as the
+Commissioner of Labour, a Senior Deputy Commissioner
+of Labour, a Deputy Commissioner of Labour, an Assistant
+Commissioner of Labour, a Chief Industrial Relations
+Officer, a Deputy Chief Industrial Relations Officer, a
+7
+The Employment Act, 2007
+Senior Labour Officer, an Industrial Relations Officer or a
+Labour Officer;
+“lockout” means the closing of a place of employment
+or the suspension of work or refusal by an employer to
+employ any employees―
+(a) for the purpose of compelling the employees
+of the employer to accept any demand in
+request of a trade dispute; and
+(b) not for the purpose of finally terminating
+employment.
+“migrant worker” means a person who migrates to
+Kenya with a view to being employed by an employer and
+includes any person regularly admitted as a migrant worker;
+“mine” includes an undertaking, whether public or
+private, for the extraction of a substance from the surface,
+or from under the surface of the earth.
+‘Minister” means the Minister for the time being
+responsible for labour matters;
+“organisation” includes employees’ trade unions and
+employers organisations;
+“parties” means the parties to a contract of service;
+“piece work” means any work the pay for which is
+ascertained by the amount of work performed irrespective
+of the time occupied in its performance;
+“probationary contract” means a contract of
+employment, which is of not more than twelve months
+duration or part thereof, is in writing and expressly states
+that it is for a probationary period;
+“redundancy” means the loss of employment,
+occupation, job or career by involuntary means through no
+8
+The Employment Act, 2007
+fault of an employee, involving termination of employment
+at the initiative of the employer, where the services of an
+employee are superfluous and the practices commonly
+known as abolition of office, job or occupation and loss of
+employment;
+“Registrar” means the Registrar of Trade Unions;
+“remuneration” means the total value of all payments
+in money or in kind, made or owing to an employee arising
+from the employment of that employee;
+“strike” means the cessation of work by employees
+acting in combination, or a concerted refusal or a refusal
+under a common understanding of employees to continue to
+work, for the purpose of compelling their employer or an
+employers’ organization of which their employer is a
+member, to accede to any demand in respect of a trade
+dispute;
+“task” means such amount of work as can, in the
+opinion of an authorised officer, be performed by an
+employee in an ordinary working day;
+“trade union” means an association of employees
+whose principal purpose is to regulate relations between
+employees and employers and includes an employer’s
+organisation;
+“woman” means a female of the age of eighteen years
+or above;
+“worst form of child labour” with respect to juveniles,
+means their employment, engagement or usage in any activity
+comprising of-
+(a) all forms of slavery or practices similar to slavery,
+such as the sale and trafficking of children, debt
+bondage and serfdom and forced or compulsory
+recruitment of children for use in armed conflict;
+9
+The Employment Act, 2007
+(b) the use, procuring or offering of a child for
+prostitution, for the production of pornography or for
+pornographic performances;
+(c) the use, procuring or offering of a child for illicit
+activities, in particular for the production and
+trafficking of drugs as define in the relevant
+international treaties;
+(d) work which, by its nature or the circumstances in
+which it is carried out, is likely to harm the health,
+safety or morals of the child;
+“young person” means a child who has attained the
+age of sixteen years but has not attained the age of eighteen
+years;
+Application.
+Cap.199
+3. (1) This Act shall apply to all employees employed by
+any employer under a contract of service.
+(2) This Act shall not apply to―
+(a) the armed forces or the reserve as
+respectively defined in the Armed
+Forces Act;
+(b) the Kenya Police, the Kenya Prisons
+Service or the Administration Police
+Force;
+(c) the National Youth Service;
+and
+(d) an employer and the employer’s
+dependants where the dependants are
+the only employees in a family
+undertaking.
+(3) This Act shall bind the Government.
+(4) The Minister may, after consultation with the
+10
+Prohibition against
+forced labour.
+The Employment Act, 2007
+Board and after taking account of all relevant conventions
+and other international instruments ratified by Kenya, by
+order exclude from the application of all or part of this Act
+limited categories of employees in respect of whom special
+problems of a substantial nature arise.
+(5) The Minister may, after consultation with the
+Board, by order exclude from the application of all or part of
+this Act categories of employed persons whose terms and
+conditions of employment are governed by special
+arrangements:
+Provided those arrangements afford protection that is
+equivalent to or better than that part of the Act from which
+those categories are being excluded.
+(6) Subject to the provisions of this Act, the terms and
+conditions of employment set out in this Act shall constitute
+minimum terms and conditions of employment of an
+employee and any agreement to relinquish vary or amend the
+terms herein set shall be null and void.
+PART II ― GENERAL PRINCIPLES
+4. (1) No person shall use or assist any other person in
+recruiting, trafficking or using forced labour.
+(2) The term “forced or compulsory labour” shall
+not include―
+(a) any work or service exacted by virtue of
+compulsory military service laws for work of a
+purely military character:
+Provided that forced or compulsory recruitment of
+children for use in armed conflict shall be deemed to be forced
+or compulsory labour;
+(b) any work or service which forms part of the
+normal civic obligations of the citizens of Kenya;
+11
+Discrimination in
+employment.
+The Employment Act, 2007
+(c) any work or service exacted from any person as a
+consequence of a conviction in a court of law,
+provided that the work or service is carried out
+under the supervision and control of a public
+authority and that the person is not hired out to
+or placed at the disposal of private persons,
+companies or associations;
+(d) any work or service exacted in cases of an
+emergency, such as in the event of war or
+disaster or threat of calamity in any circumstance
+that would endanger the existence or the well -
+being of the whole or part of the population; and
+(e) minor communal services performed by the
+members of the community in the direct interest
+of the said community provided the members of
+the community or their representatives are
+consulted.
+(3) A person who contravenes the provisions of this
+section commits an offence and shall, on conviction be
+liable to a fine not exceeding five hundred thousand
+shillings or to imprisonment for a term not exceeding two
+years or to both.
+5. (1) It shall be the duty of the Minister, labour officers
+and the Industrial Court–
+(a) to promote equality of opportunity in employment
+in order to eliminate discrimination in
+employment; and
+(b) to promote and guarantee equality of opportunity
+for a person who, is a migrant worker or a
+member of the family of the migrant worker,
+lawfully within Kenya.
+(2)An employer shall promote equal opportunity in
+employment and strive to eliminate discrimination in any
+employment policy or practice.
+12
+The Employment Act, 2007
+(3) No employer shall discriminate directly or
+indirectly, against an employee or prospective employee or
+harass an employee or prospective employee―
+(a) on grounds of race, colour, sex, language,
+religion, political or other opinion, nationality,
+ethnic or social origin, disability, pregnancy,
+mental status or HIV status;
+(b) in respect of recruitment, training, promotion,
+terms and conditions of employment, termination
+of employment or other matters arising out of the
+employment.
+(3) It is not discrimination to―
+(a) take affirmative action measurers
+consistent with the promotion of equality
+or the elimination of discrimination in
+the workplace;
+(b) distinguish, exclude or prefer any person
+on the basis of an inherent requirement
+of a job;
+(c) employ a citizen in accordance with the
+National employment policy; or
+(d) restrict access to limited categories of
+employment where it is necessary in the
+interest of state security.
+(4) An employer shall pay his employees equal
+remuneration for work of equal value.
+(5) An employer who contravenes the provision of the
+section commits an offence.
+(6) In any proceedings where a contravention of this
+13
+Sexual
+harassment.
+The Employment Act, 2007
+section is alleged, the employer shall bear the burden of
+proving that the discrimination did not take place as alleged,
+and that the discriminatory act omission is not based on any
+of the grounds specified in this section.
+(7) For the purposes of this section―
+(a) “employee” includes an applicant for
+employment;
+(b) “employer” includes an employment
+agency;
+(c) an “employment policy or practice”
+includes any policy or practice relating
+to recruitment procedures, advertising
+and selection criteria, appointments and
+the appointment process, job
+classification and grading, remuneration,
+employment benefits and terms and
+conditions of employment, job
+assignments, the working environment
+and facilities , training and development,
+performance evaluation systems,
+promotion, transfer, demotion,
+termination of employment an
+disciplinary measures.
+6. (1) An employee is sexually harassed if the
+employer of that employee or a representative of that
+employer or a co-worker―
+(a) directly or indirectly requests that employee
+for sexual intercourse, sexual contact or
+any other form of sexual activity that
+contains an implied or express―
+(i) promise of preferential treatment in
+employment;
+(ii) threat of detrimental treatment in
+14
+The Employment Act, 2007
+employment; or
+(iii) threat about the present or future
+employment status of the employee;
+(b) uses language whether written or spoken of a
+sexual nature;
+(c) uses visual material of a sexual nature; or
+(d) shows physical behaviour of a sexual nature
+which directly or indirectly subjects the
+employee to behaviour that is unwelcome
+or offensive to that employee and that by
+its nature has a detrimental effect on that
+employee’s employment, job performance,
+or job satisfaction.
+(2) An employer who employs twenty or more
+employees shall, after consulting with the employees or
+their representatives if any, issue a policy statement on
+sexual harassment.
+(3) The policy statement required under subsection (2)
+may contain any term the employer considers appropriate
+for the purposes of this section and shall contain―
+(a) the definition of sexual harassment as
+specified in subsection (1);
+(b) a statement―
+(i) that every employee is entitled to
+employment that is free of sexual
+harassment;
+(ii) that the employer shall take steps to
+ensure that no employee is
+subjected to sexual harassment;
+(iii) that the employer shall take such
+15
+Contract of
+service.
+Oral and written
+contracts
+General provision
+of contract of
+service.
+The Employment Act, 2007
+disciplinary measures as the
+employer deems appropriate
+against any person under the
+employer’s direction, who subjects
+any employee to sexual harassment;
+(iv) explaining how complaints of
+sexual harassment may be brought
+to the attention of the employer;
+and
+(v) that the employer will not disclose
+the name of a complainant or the
+circumstances related to the
+complaint to any person except
+where disclosure is necessary for
+the purpose of investigating the
+complaint or taking disciplinary
+measures in relation thereto.
+(4) An employer shall bring to the attention of each
+person under the employer’s direction the policy statement
+required under subsection (2).
+PART III ― EMPLOYMENT RELATIONSHIP
+7. No person shall be employed under a contract of service
+except in accordance with the provisions of this Act.
+8. The provisions of this Act shall apply to oral and
+written contracts.
+9. (1) A contract of service―
+(a) for a period or a number of working days
+which amount in the aggregate to the
+equivalent, of three months or more; or
+(b) which provides for the performance of any
+specified work which could not
+reasonably be expected to be completed within
+16
+Employment
+particulars.
+The Employment Act, 2007
+a period or a number of working days
+amounting in the aggregate to the equivalent of
+three months;
+shall be in writing.
+(2) An employer who is a party to a written contract of
+service shall be responsible for causing the contract to be
+drawn up stating particulars of employment and that the
+contract is consented to by the employee in accordance with
+subsection (3)
+(3) For the purpose of signifying his consent to a written
+contract of service an employee may―
+(a) sign his name thereof, or
+(b) imprint thereon an impression of his thumb or one
+of his fingers in the presence of a person other
+than his employer.
+(4) Where an employee is illiterate or cannot understand
+the language in which the contract is written, or the provisions
+of the contract of service, the employer shall have the contract
+explained to the employee in a language that employee
+understands.
+10. (1) A written contract of service specified in
+section 9 shall state particulars of employment which may,
+subject to subsection(3) be given in instalments and shall be
+given not later than two months after the beginning of the
+employment―
+(2) A written contract of service shall state―
+(a) the name, age, permanent address of the employee;
+(b) the name of the employer;
+and sex
+(c) the job description of the employment;
+17
+The Employment Act, 2007
+(d) the date of commencement of the
+employment;
+(e) the form and duration of the contract;
+(f) the place of work;
+(g) the hours of work;
+(h) the remuneration, scale or rate of
+remuneration, the method of calculating
+that remuneration and details of any other
+benefits;
+(i) the intervals at which remuneration is paid;
+and
+(j) the date on which the employee’s period of
+continuous employment began, taking into
+account any employment with a previous
+employer which counts towards that period;
+and
+(k) any other prescribed matter.
+(3) The statement required under this section shall also
+contain particulars, as at a specified date not more than
+seven days before the statement, or the instalment
+containing them, is given of―
+(a) any terms and conditions relating to any of the
+following-
+(i) entitlement to annual leave, including
+public holidays,, and holiday pay, (the
+particulars given being sufficient to
+enable the employee’s entitlement,
+including any entitlement to accrued
+holiday pay on the termination of
+employment, to be precisely
+calculated),
+18
+The Employment Act, 2007
+(b) (c) (d) (e) (ii) incapacity to work due to sickness or
+injury, including any provision for sick
+pay; and
+(iii) pensions and pension schemes,
+the length of notice which the employee is
+obliged to give and entitled to receive to
+terminate his contract of employment;
+where the employment is not intended to be for
+an indefinite period, the period for which it is
+expected to continue or, if it is for a fixed term,
+the date when it is to end;
+either the place of work or, where the
+employee is required or permitted to work at
+various places, an indication of that place of
+work and of the address of the employer;
+any collective agreements which directly affect
+the terms and conditions of the employment
+including, where the employer is not a party,
+the person by whom they were made, and;
+(i) where the employee is required to work
+outside Kenya for a period of more than
+one month―
+(ii) the period for which that employee is to
+work outside Kenya;
+(iii) the currency in which remuneration is
+to be paid while that employee is
+working outside Kenya;
+(iv) any additional remuneration payable to
+the employee, and any benefits due to
+the employee by reason of the
+employee working outside Kenya; and
+19
+The Employment Act, 2007
+(iv) any terms and conditions relating to the
+employee’s return to Kenya.
+(4) Subsection (3)(a)(iii) does not apply to an employee
+of a body or authority if―
+(a) the employee’s pension rights depend
+on the terms of a pension scheme
+established under any provision
+contained in or having effect under any
+Act; and
+(b) any such provision requires the body or
+authority to give to a new employee
+information concerning the employee’s
+pension rights or the determination of
+questions affecting those rights.
+(5) Where any matter stipulated in subsection (1) changes,
+the employer shall, in consultation with the employee, revise
+the contract to reflect the change and notify the employee of
+the change in writing.
+(6) The employer shall keep the written particulars
+prescribed in subsection (1) for a period of five years after the
+termination of employment.
+(7) If in any legal proceedings an employer fails to produce
+a written contract or the written particulars prescribed in
+subsection (1) the burden of proving or disproving an alleged
+term of employment stipulated in the contract shall be on the
+employer.
+Statement of initial
+particulars. 11. (1) If in the case of a statement under section 10
+there are no particulars to be entered under subsection (2) (d)
+or (j) or under any of the other provisions of section 10 (2) or
+(3), that fact shall be stated in the statement.
+(2) A statement under section 10 may refer the employee
+20
+Statement on
+disciplinary rules.
+The Employment Act, 2007
+for particulars of any of the matters specified in section 10
+(3)(a)(ii) and (iii) to the provisions of any other document
+which is reasonably accessible to the employee.
+(3) A statement under section 10 may refer the employee
+for particulars of either of the matters specified in section 10
+(3) (e) to the law or to the provisions of any collective
+agreement directly affecting the terms and conditions of the
+employment which is reasonably accessible to the employee.
+(4) The particulars required by section 10 (2) and (3) shall
+be included in a single document.
+(5) Where before the end of the period of two months
+after the beginning of an employee’s employment the
+employee is to begin to work outside Kenya for a period of
+more than one month, the statement under section 11 shall be
+given to him not later than the time when he leaves Kenya in
+order to begin work.
+(6) A statement shall be given to a person under section
+10 even if his employment ends before the end of the period
+within which the statement is required to be given.
+12. (1) A statement under section 10 shall -
+(a) specify the disciplinary rules applicable to the
+employee or refer the employee to the
+provisions of a document which is reasonably
+accessible to the employee which specifies the
+rules;
+(b) specify the person to whom the employee may
+apply―
+(i) if dissatisfied with any
+disciplinary decision relating to
+the employee; and
+(ii) for the purpose of seeking
+redress of any grievance relating
+21
+Statement of
+changes.
+The Employment Act, 2007
+to his employment.
+and the manner in which an application
+shall be made; and
+(c) where there are further steps to be taken
+consequent to any such application, the steps
+or refer the employee to the provisions of a
+document which is accessible to the employee
+which explains the steps.
+(2) Subsection (1) shall not apply to rules, disciplinary
+decisions, grievances, or procedures relating to health or
+safety at work.
+(3) This section shall not apply where as at the date the
+employee starts work the employer has employed less than
+fifty employees.
+13. (1) If, after the material date there is a change in any of
+the particulars required under sections 10 and 12, the
+employer shall give to the employee a written statement
+containing particulars of the change.
+(2) For the purposes of subsection (1)―
+(a) in relation to particulars which are
+included or referred to in a statement
+given under section 9 otherwise than in
+instalments, the material date is the date
+to which the statement relates;
+(b) in relation to a matter particulars of
+which-
+(i) are included or referred to in an
+instalment of a statement given
+under section 10, or
+(ii) are required by section 11(4) to
+be included in a single
+22
+The Employment Act, 2007
+document but are not included
+in an instalment of a statement
+given under section 10 which
+does include other particulars to
+which that provision applies, the
+material date is the date to
+which the instalment relates,
+and
+(c) in relation to any other matter the
+material date is the date by which a
+statement under section 10 is required
+to be given.
+(3) A statement under subsection (1) shall be given at
+the earliest opportunity and, in any event, not later than―
+(a) one month after the change in question, or
+(b) where that change results from the employee
+being required to work outside Kenya for a
+period of more than one month, the time when
+the employee leaves to start work if that is
+earlier.
+(4) A statement under subsection (1) may refer the
+employee to the provision of a document which is accessible
+to the employee for a change in any of the matters specified in
+section 10(3)(ii) and (iii) and section 12(1)(a) and (c).
+(5) A statement under subsection (1) may refer the
+employee for a change in either of the matters specified in
+section 10 (3) (e) to the law or to the provisions of any
+collective agreement directly affecting the terms and
+conditions of the employment which is reasonably accessible
+to the employee.
+(6) Where, after an employer has given to an employee
+a statement under section 10 either―
+(a) the name of the employer is changed without any
+23
+The Employment Act, 2007
+Reasonably
+accessible
+document or
+collective
+agreement
+Informing
+employees of their
+rights.
+Enforcement change in the identity of the employer, or
+(b) the identity of the employer is changed in
+circumstances in which the continuity of the
+employee’s period of employment is not broken,
+and subsection (7) applies in relation to the
+change,
+the person who is the employer immediately after the
+change is not required to give to the employee a
+statement under section 12 but the change shall be
+treated as a change within subsection (1).
+(7) Subsection (6) applies in relation to a change if it
+does not involve any change in any of the matters, other than
+the names of the parties, particulars of which are required by
+section 10 and 11 to be included or referred to in the
+statement under subsection (1).
+(8) A statement under subsection (1) which informs an
+employee of a change referred to in subsection (6) (b) shall
+specify the date on which the employee’s period of
+continuous employment began.
+14. In sections 11, 12 and 13, references to a document or
+collective agreement which is reasonably accessible to an
+employee are references to a document or collective
+agreement which―
+(a) the employee has reasonable opportunities of
+reading in the course of his employment, or
+(b) is made reasonably accessible to the employee in
+some other way.
+15. An employer shall display a statement in the prescribed
+form of the employee’s rights under this Act in a conspicuous
+place, which is accessible to all the employees.
+16. (1) Where an employer does not give an employee a
+statement as required by section 10, 12 or 13 or an itemised
+24
+The Employment Act, 2007
+pay statement as required by section 20, the employee may
+file a complaint with the labour officer and the complaint
+shall be deemed to be complaint filed under section 71.
+(2) Where as a result of a complaint arising out of
+section 10, 12, 13 or 20 the Industrial Court determines
+particulars which ought to have been included or referred to in
+a statement given under these sections, the employer shall be
+deemed to have given to the employee a statement in which
+those particulars were included or referred to as specified in
+the decision of the Industrial Court.
+(3) Where under subsection (1) the Industrial Court
+has to determine whether the statement given complies with a
+statement under section 10, 13 or 20 the Industrial Court may-
+(a) confirm the particulars as included or
+referred to in the statement given by the
+employer;
+(b) amend those particulars; or
+(c) substitute other particulars for them as
+the Industrial Court may determine to be appropriate,
+and the statement shall be deemed to have been given by
+the employer to the employee in accordance with the
+courts decision.
+(4) A person who fails to give to an employee a
+statement as required by section 10, 12, 13 or 20 commits an
+offence and shall, on conviction be liable to a fine not
+exceeding one hundred thousand shillings or to imprisonment
+for a term not exceeding two years or to both.
+(5) Where a person contravenes the sections specified
+in subsection (1), a court, on application of the employee or
+the labour officer on behalf of the employee may, in addition
+to the penalty specified in subsection (4) order any remedy
+specified in subsection (3).
+25
+The Employment Act, 2007
+Payment, disposal
+and recovery of
+wages, allowances
+etc.
+PART IV ― PROTECTION OF WAGES.
+17. (1) Subject to this Act, an employer shall pay the
+entire amount of the wages earned by or payable to an
+employee in respect of work done by the employee in
+pursuance of a contract of service directly, in the currency of
+Kenya―
+(a) in cash;
+(b) into an account at a bank, or building
+society, designated by the employee;
+(c) by cheque, postal order or money order
+in favour of the employee; or
+(d) in the absence of an employee, to a
+person other than the employee, if the
+person is duly authorised by the
+employee in writing to receive the
+wages on the employees behalf.
+(2) An employer shall pay wages to an employee on a
+working day, and during working hours, at or near to the
+place of employment or at such other place as may be agreed
+between the employer and the employee.
+(3) An employer shall not pay wages to an employee
+in any place where intoxicating liquor is sold or readily
+available for supply, except in the case of employees
+employed to work in that place.
+(4) No person shall give or promise to any person any
+advance of money or any valuable consideration upon a
+condition expressed or implied that the person or any
+dependant of that person shall enter upon any employment.
+(5) If, in a contract of service or collective agreement,
+provision is made for the payment of any allowance in kind to
+an employee with the employees consent the payment may
+26
+The Employment Act, 2007
+with such consent be made only if, the allowance―
+(a) is for the personal use and benefit of the
+employee ; and
+(b) does not consist of or include any intoxicating
+spirit or noxious drug.
+(6) Notwithstanding the provisions of any law for the
+time being in force, whenever an attachment has been issued
+against the property of an employer in execution of a decree
+against him, the proceeds realised in pursuance of that
+execution shall not be paid by the court to a decree-holder
+until a decree obtained against the employer in respect of the
+wages of employees has been satisfied to the extent of a sum
+not exceeding six months’ wages of those employees.
+(7) Nothing in subsection (6) shall prevent an employee
+from recovering any balance due after such satisfaction, by
+ordinary process of law.
+(8) Subsection (6) shall not apply if the attachment is
+issued against an employer undergoing insolvency as defined
+under Part VIII in which case the provisions under that Part
+shall apply.
+(9) If an employer advances to an employee a sum in
+excess of the amount of one month’s wages of the employee
+or, in the case of an employee employed under a written
+contract of service, a sum in excess of the amount of two
+months’ wages of that employee, the excess shall not be
+recoverable in a court of law.
+(10) A person who―
+(a) subject to section 19, wilfully fails to
+make payment of or to tender the wages
+earned by or payable to an employee in
+accordance with subsection (1) ;or
+(b) contravenes any of the provisions of
+27
+The Employment Act, 2007
+subsections (2), (3), (4) and (5).
+commits an offence and shall on conviction be liable
+to fine not exceeding one hundred thousand shillings or to
+imprisonment for a term not exceeding two years or to both.
+(11) No employer shall limit or attempt to limit the
+right of an employee to dispose of his wages in a manner
+which the employee deems fit, nor by a contract of service or
+otherwise seek to compel an employee to dispose of his
+wages or a portion thereof in a particular place or for a
+particular purpose in which the employer has a direct or
+indirect beneficial interest.
+When wages or
+salaries due.
+18. (1) Where a contract of service entered into under
+which a task or piece work is to be performed by an
+employee, the employee shall be entitled―
+(a) when the task has not been completed, at
+the option of his employer, to be paid by
+his employer at the end of the day in
+proportion to the amount of the task
+which has been performed, or to
+complete the task on the following day,
+in which case he shall be entitled to be
+paid on completion of the task; or
+(b) in the case of piece work, to be paid by
+his employer at the end of each month
+in proportion to the amount of work
+which he has performed during the
+month, or on completion of the work,
+whichever date is the earlier.
+(2) Subject to subsection (1), wages or salaries shall be
+deemed to be due―
+(a) in the case of a casual employee, at the end
+of the day;
+28
+The Employment Act, 2007
+(b) in the case of an employee employed
+for a period of more than a day but not
+exceeding one month, at the end of that
+period;
+(c) in the case of an employee employed
+for a period exceeding one month, at
+the end of each month or part thereof;
+(d) in the case of an employee employed
+for an indefinite period or on a journey,
+at the expiration of each month or of
+such period, whichever date is the
+earlier, and on the completion of the
+journey, respectively.
+(3) The provisions of this section shall not affect an
+order, judgment or award of the Industrial Court or an
+agreement between an employee and his employer the
+relevant terms of which are more favorable to the employee
+than the provisions of this section.
+(4) Where an employee is summarily dismissed for
+lawful cause, the employee shall, on dismissal be paid all
+moneys, allowances and benefits due to him up to the date of
+his dismissal.
+(5) Upon the termination of a contract of service-
+(a) (b) by effluxion of time, it shall be the duty
+of the employer to ensure that the
+employee is paid the entire amount of
+the wages earned by or payable to the
+employee and of the allowances due to
+him as have not been paid;
+by dismissal, the employer shall, within
+seven days, deliver to a labour officer in
+the district in which the employee was
+working a written report specifying the
+circumstances leading to, and the
+29
+Deduction of
+wages.
+The Employment Act, 2007
+reasons for, the dismissal and stating
+the period of notice and the amount of
+wages in lieu thereof to which the
+employee would, but for the dismissal,
+have been entitled; and the report shall
+specify the amount of any wages and
+other allowance earned by him since the
+date of the employees dismissal.
+(6) No wages shall be payable to an employee in
+respect of a period during which the employee is detained in
+custody or is serving a sentence of imprisonment imposed
+under any law.
+19.(1) Notwithstanding section 17(1), an employer may
+deduct from the wages of his employee―
+(a) any amount due from the employee as
+a contribution to any provident fund or
+superannuation scheme or any other
+scheme approved by the Commissioner
+for Labour to which the employee has
+agreed to contribute;
+(b) a reasonable amount for any damage
+done to, or loss of, any property
+lawfully in the possession or custody of
+the employer occasioned by the wilful
+default of the employee;
+(c) an amount not exceeding one day’s
+wages in respect of each working day
+for the whole of which the employee,
+without leave or other lawful cause,
+absents himself from the premises of
+the employer or other place proper and
+appointed for the performance of his
+work;
+(d) an amount equal to the amount of any
+shortage of money arising through the
+30
+The Employment Act, 2007
+(e) (f) (g) (h) (i) negligence or dishonesty of the
+employee whose contract of service
+provides specifically or his being
+entrusted with the receipt, custody and
+payment of money;
+any amount paid to the employee in
+error as wages in excess of the amount
+of wages due to him;
+any amount the deduction of which is
+authorised by any written law for the
+time being in force, collective
+agreement, wage determination, court
+order or arbitration award;
+any amount in which the employer has
+no direct or indirect beneficial interest,
+and which the employee has requested
+the employer in writing to deduct from
+his wages;
+an amount due and payable by the
+employee under and in accordance with
+the terms of an agreement in writing, by
+way of repayment or part repayment of
+a loan of money made to him by the
+employer, not exceeding fifty per cent
+of the wages payable to that employee
+after the deduction of all such other
+amounts as may be due from him
+under this section; and
+such other amounts as the Minister may
+prescribe.
+(2) No employer shall make a deduction from the
+wages payable to an employee as an advance of wages in
+consideration of, or as a reward for, the provision of
+employment for that employee, or for retaining the employee
+in employment.
+31
+Itemised pay
+statement.
+The Employment Act, 2007
+(3) Without prejudice to any right of recovery of any
+debt due, and notwithstanding the provisions of any other
+written law, the total amount of all deductions which under
+the provisions of subsection (1), may be made by an employer
+from the wages of his employee at any one time shall not
+exceed two thirds of such wages or such additional or other
+amount as may be prescribed by the Minister either generally
+or in relation to a specified employer or employee or class of
+employers or employees or any trade or industry.
+(4) An employer who deducts an amount from an
+employee’s remuneration in accordance with subsection
+(1)(a),(f),(g) and (h) shall pay the amount so deducted in
+accordance with the time period and other requirements
+specified in the law, agreement court order or arbitration as
+the case may be.
+(5) An employer who fails to comply with the
+provisions of subsection (4) commits an offence and shall on
+conviction be liable to a fine not exceeding one hundred
+thousand shillings or to imprisonment for a term not
+exceeding two years or to both.
+(6) Where proceedings are brought under subsection
+(5) in respect of failure by the employer to remit deductions
+from an employees remuneration, the court may, in addition
+to fining the employer order the employer to refund to the
+employee the amount deducted from the employees wages
+and pay the intended beneficiary on behalf of the employee
+with the employer’s own funds.
+20.(1) An employer shall give, a written statement to
+an employee at or before the time at which any payment of
+wages or salary is made to the employee.
+(2) The statement specified in subsection (1) shall
+contain particulars of―
+(a) the gross amount of the wages or salary of the
+employee;
+32
+Statement of
+statutory
+deductions
+The Employment Act, 2007
+(b) the amounts of any variable and subject to section
+22, any statutory deductions from that gross
+amount and the purposes for which they are made;
+and
+(c) where different parts of the net amount are paid in
+different ways, the amount and method of payment
+of each part-payment.
+(3) This section shall not apply to a casual employee
+or an employee engaged on piece rate or task rate terms or
+for any period not exceeding six months.
+(4) The Minister may exclude any category of
+employees or employees employed in any sector from the
+application of this section.
+21.(1) A pay statement issued in accordance with
+section 20 need not contain separate particulars of statutory
+deductions if―
+(a) (2) it contains an aggregate amount of
+statutory deduction, including that
+deduction, and
+(b) the employer has given to the
+employee, at or before the time at
+which the pay statement is given, a
+statement of statutory deductions
+specified in subsection (2).
+A statement of statutory deductions shall be―
+(a) in writing
+(b) contain, in relation to each deduction
+comprised in the aggregate amount of
+deductions, particulars of -
+(i) the amount of the deduction;
+33
+The Employment Act, 2007
+(c) (ii) the intervals at which the
+deduction is to be made; and
+(iii) the purpose for which it is
+made; and
+in accordance with subsection (5),
+effective at the date on which the pay
+statement is given.
+(3) A statement of statutory deductions may be
+amended by―
+(a) the addition of a new deduction;
+(b) a change in the particulars, or
+(c) the cancellation of an existing
+deduction, by notice in writing,
+containing particulars of the
+amendment given by the employer to
+the employee.
+(4) An employer who has given to an employee a
+statement of statutory deductions shall―
+(a) within the period of twelve months
+beginning on the date the first
+statement of statutory deductions was
+given; and
+(b) at intervals of not more than twelve
+months afterwards, re-issue it in a
+consolidated form incorporating any
+amendments notified in accordance
+with subsection (3).
+(5) For the purposes of subsection (2)(c),a statement of
+deductions―
+34
+Power to amend
+provisions on pay
+and statements of
+deductions.
+Security bond for
+wages
+Death of an
+employee.
+The Employment Act, 2007
+(a) (b) becomes effective on the date on which
+it is given to the employee; and
+ceases to be effective at the end of the
+period of twelve months beginning on
+that date or, where it is re-issued in
+accordance with subsection (4), at the
+end of the period of twelve months
+beginning with the date of the last re-
+issue.
+22. The Minister may on the advise of the Board―
+(a) vary the provisions of sections 20 and 21 as to
+the particulars which must be included in a pay
+statement or a statement of statutory
+deductions by adding items to, or removing
+items from, the particulars listed in those
+sections or by amending any such particulars;
+and
+(b) vary the provisions of section 21(4) and (5) so
+as to shorten or extend the periods specified in
+those subsections, or those periods as varied
+from time to time under this section.
+23. (1) An employer who is not incorporated or resident in
+Kenya may be required by the Minister to pay a bond
+assessed at the equivalent of one month’s wages for all
+employees employed or to be employed by the employer.
+(2) A bond paid by any employer shall be held by
+the Minister on behalf of that employer in a separate interest
+bearing account and shall not be used for any purpose other
+than paying wages and other entitlements to that employer’s
+employees in the event of default by that employer.
+24.(1) When the death of an employee from any cause
+whatsoever is brought to the notice or comes to the
+knowledge of the employee’s employer, the employer shall as
+35
+Cap.160
+The Employment Act, 2007
+soon as practicable thereafter, give notice of the death in the
+prescribed form to the labour officer or, if there is no labour
+officer, to the district commissioner of the district in which
+the employee was employed.
+(2) Upon the death of an employee during the term of
+a contract of service, the legal representatives of the employee
+shall, upon proof of capacity as required by law, be entitled to
+be paid wages and any other remuneration and property due to
+the employee as at the date of death within thirty days of
+submitting the proof.
+(3) The employer of the deceased employee shall,
+within seven days of such payment provide the labour officer
+or in his absence the district commissioner with evidence of
+the payment.
+(4) Where on expiry of three months after the
+employee’s death―
+(a) no legal representative has laid claim to the
+wages or property of the employee; or
+(b) where the employer is in doubt of or has
+rejected any claim made to the wages or
+the property of the employee, the
+employer, shall deliver to the labour officer
+or district commissioner as the case may be
+all wages due to the employee at the date
+of his death and shall deliver to him all
+property of the deceased employee to be
+held by the labour officer or the district
+commissioner in trust subject to the Law of
+Succession Act or any other written law
+applicable to the disposal of a deceased
+persons property.
+(5) Where an employee is, during the course of his
+employment killed or incapacitated by injury for a period
+exceeding three days, his employer shall as soon as
+practicable, send to the labour officer or, if there is no labour
+36
+Repayment of
+remuneration
+wrongfully
+withheld or
+deducted.
+Basic minimum
+conditions of
+employment.
+Hours of work. The Employment Act, 2007
+officer to a district commissioner a report in the prescribed
+form.
+25.(1) Without prejudice to any other liability for a
+breach of the provisions of this Part, an employer who
+contravenes the provisions of this Part commits an offence
+and shall on conviction be liable to a fine not exceeding one
+hundred thousand shillings or to imprisonment for a term not
+exceeding two years or to both and shall be required to repay
+any remuneration wrongfully withheld or wrongfully deducted
+from the employee.
+(2) An employee may file a complaint under this part-
+(a) to a labour officer .
+(b) not later than three years after the
+allegedly unlawful deduction has been
+made.
+PART V―RIGHTS AND DUTIES IN EMPLOYMENT
+26.(1) The provisions of this Part and Part VI shall
+constitute basic minimum terms and conditions of contract of
+service.
+(2) Where the terms and conditions of a contract of
+service are regulated by any regulations, as agreed in any
+collective agreement or contract between the parties or
+enacted by any other written law, decreed by any judgment
+award or order of the Industrial Court are more favourable to
+an employee than the terms provided in this Part and Part VI,
+then such favourable terms and conditions of service shall
+apply.
+27. (1) An employer shall regulate the working hours of
+each employee in accordance with the provisions of this Act
+and any other written law.
+(2) Notwithstanding subsection (1), an employee shall
+be entitled to at least one rest day in every period of seven
+37
+The Employment Act, 2007
+days.
+Annual leave. 28.(1) An employee shall be entitled-
+(a) after every twelve consecutive months of service
+with his employer to not less than twenty-one
+working days of leave with full pay;
+(b) where employment is terminated after the
+completion of two or more consecutive months of
+service during any twelve months’ leave-earning
+period, to not less than one and three-quarter days
+of leave with full pay, in respect of each completed
+month of service in that period, to be taken
+consecutively.
+(2) An employer may, with the consent of the
+employee divide the minimum annual leave entitlement under
+sub-section (1) (a) into different parts to be taken at different
+intervals.
+(3) Unless otherwise provided in an agreement
+between an employee and an employer or in a collective
+agreement, and on condition that the length of service of an
+employee during any leave earning period specified in
+subsection (1)(a) entitles the employee to such a period, one
+part of the parts agreed upon under subsection (2) shall
+consist of at least two uninterrupted working weeks.
+(4) The uninterrupted part of the annual leave with
+pay referred to in subsection (3) shall be granted and taken
+during the twelve consecutive months of service referred to in
+subsection (1) (a) and the remainder of the annual leave with
+pay shall be taken not later than eighteen months from the end
+of the leave earning period referred to in subsection (1) (a)
+being the period in respect of which the leave entitlement
+arose.
+(5) Where in a contract of service an employee is
+entitled to leave days in excess of the minimum specified in
+subsection (1)(a), the employer and the employee may agree
+38
+Maternity leave. The Employment Act, 2007
+on how to utilize the leave days.
+29. (1) A female employee shall be entitled to three
+months maternity leave with full pay.
+(2) On expiry of a female employee’s maternity leave
+as provided in subsections (1) and (3), the female employee
+shall have the right to return to the job which she held
+immediately prior to her maternity leave or to a reasonably
+suitable job on terms and conditions not less favourable
+than those which would have applied had she not been on
+maternity leave.
+(3) Where―
+(a) the maternity leave has been extended with the
+consent of employer; or
+(b) immediately on expiry of maternity leave before
+resuming her duties a female employee proceeds
+on sick leave or with the consent of the employer
+on annual leave; compassionate leave; or any
+other leave.
+the three months maternity leave under subsection (1) shall
+be deemed to expire on the last day of such extended leave.
+(4) A female employee shall only be entitled to the
+rights mentioned in subsections (1), (2) and (3) if she gives
+not less than seven days notice in advance or a shorter period
+as may be reasonable in the circumstances of her intention to
+proceed on maternity leave on a specific date and to return to
+work thereafter.
+(5) in writing.
+The notice referred to in subsection (4) shall be
+(6) A female employee who seeks to exercise any of
+the rights mentioned in this section shall, if required by the
+employer, produce a certificate as to her medical condition
+from a qualified medical practitioner or midwife.
+39
+Sick leave. Housing. The Employment Act, 2007
+(7) No female employee shall forfeit her annual
+leave entitlement under section 28 on account of having taken
+her maternity leave.
+(8) A male employer shall be entitled to two weeks
+paternity leave with full pay.
+30.(1) After two consecutive months of service with his
+employer, an employee shall be entitled to sick leave of not
+less than seven days with full pay and thereafter to sick leave
+of seven days with half pay, in each period of twelve
+consecutive months of service, subject to production by the
+employee of a certificate of incapacity to work signed by a
+duly qualified medical practitioner or a person acting on the
+practitioner’s behalf in charge of a dispensary or medical aid
+centre.
+(2) For an employee to be entitled to sick leave with
+full pay under subsection (1), the employee shall notify or
+cause to be notified as soon as is reasonably practicable his
+employer of his absence and the reasons for it.
+(3) For the purposes of sub-section (1) and (2)
+“full pay” includes wages at the basic rate excluding
+deductions from the wages allowable under section 19.
+(4) For purposes of subsection (1), the twelve
+continuous months of service shall be deemed to commence
+on the date of the employment of the employee and on such
+subsequent anniversary dates of employment.
+(5) An employer shall have the right to place all his
+employees on an annual cycle of an anniversary date falling
+on a day to be determined by the employer.
+31.(1) An employer shall at all times, at his own
+expense, provide reasonable housing accommodation for each
+of his employees either at or near to the place of employment,
+or shall pay to the employee such sufficient sum, as rent, in
+40
+Water. Food. The Employment Act, 2007
+addition to the wages or salary of the employee, as will enable
+the employee to obtain reasonable accommodation.
+(2) This section shall not apply to an employee whose
+contract of service―
+(a) contains a provision which consolidates
+as part of the basic wage or salary of
+the employee, an element intended to
+be used by the employee as rent or
+which is otherwise intended to enable
+the employee to provide himself with
+housing accommodation; or
+(b) is the subject matter of or is otherwise
+covered by a collective agreement
+which provides consolidation of wages
+as provided in paragraph (a).
+(2) The Minister may, on the recommendation of the
+Board by notice in the Gazette, exclude the application of this
+section to a category of employees and such category of
+employee shall be dealt with as shall be specified in the
+notice.
+32. An employer shall provide a sufficient supply of
+wholesome water for the use of his employees at the place of
+employment and, as the case may be, within a reasonable
+distance of any housing accommodation provided for the
+employees by the employer.
+33.(1) An employer shall, where the provision of food has
+been expressly agreed to in or at the time of entering into a
+contract of service, ensure that an employee is properly fed
+and supplied with sufficient and proper cooking utensils and
+means of cooking, at the employer’s expense.
+(2) The provisions of this section shall not be deemed to
+impose upon an employer any liability in respect of an
+employee during the time the employee is absent from his
+place of employment without the permission of the employer
+41
+The Employment Act, 2007
+Medical attention. or without other lawful excuse.
+34. (1) Subject to subsection (2), an employer shall
+ensure the provision sufficient and of proper medicine for his
+employees during illness and if possible, medical attendance
+during serious illness.
+(2) An employer shall take all reasonable steps to
+ensure that he is notified of the illness of an employee as soon
+as reasonably practicable after the first occurrence of the
+illness.
+(3) It shall be a defence to a prosecution for an offence
+under subsection (1) if the employer shows that he did not
+know that the employee was ill and that he took all reasonable
+steps to ensure that the illness was brought to his notice or
+that it would have been unreasonable, in all the circumstances
+of the case, to have required him to know that the employee
+was ill.
+(4) This section shall not apply where-
+Termination
+notice.
+(a) the illness or injury to the employee was
+contracted during a period when the employee
+was absent from his employment without lawful
+cause or excuse;
+(b) the illness or injury is proved to have been self
+inflicted;
+(c) medical treatment is provided free of charge by
+the Government or under any insurance scheme
+established under any written law which covers
+the employee.
+PART VI―TERMINATION AND DISMISSAL
+35. (1) A contract of service not being a contract to
+perform specific work, without reference to time or to
+42
+The Employment Act, 2007
+undertake a journey shall, if made to be performed in Kenya,
+be deemed to be―
+(a) where the contract is to pay wages daily, a contract
+terminable by either party at the close of any day
+without notice;
+(b) where the contract is to pay wages periodically at
+intervals of less than one month, a contract
+terminable by either party at the end of the period
+next following the giving of notice in writing; or
+(c) where the contract is to pay wages or salary
+periodically at intervals of or exceeding one
+month, a contract terminable by either party at the
+end of the period of twenty-eight days next
+following the giving of notice in writing.
+(2) Subsection (1) shall not apply in the case of a contract
+of service whose terms provide for the giving of a period of
+notice of termination in writing greater than the period
+required by the provision of this subsection which would
+otherwise be applicable thereto.
+(3) If an employee who receives notice of termination is
+not able to understand the notice, the employer shall ensure
+that the notice is explained orally to the employee in a
+language the employee understands.
+(4) Nothing in this section affects the right-
+(a) of an employee whose services have been
+terminated to dispute the lawfulness or
+fairness of the termination in accordance
+with the provisions of section 46; or
+(b) of an employer or an employee to terminate
+a contract of employment without notice
+for any cause recognised by law.
+(5) An employee whose contract of service has been
+43
+The Employment Act, 2007
+terminated under subsection (1) (c) shall be entitled to service
+pay for every year worked, the terms of which shall be fixed.
+(6) This section shall not apply where an employee is a
+member of-
+No. 3 of 1997.
+(a) a registered pension or provident fund
+scheme under the Retirement Benefits
+Act;
+(b) a gratuity or service pay scheme
+established under a collective
+agreement;
+(c) any other scheme established and
+operated by an employer whose terms
+are more favourable than those of the
+service pay scheme established under
+this section; and
+(d) the National Social Security Fund.
+Payment in lieu of
+notice.
+Conversion of casual
+employment to term
+contract.
+36. Either of the parties to a contract of service to
+which section 35(5) applies, may terminate the contract
+without notice upon payment to the other party of the
+remuneration which would have been earned by that other
+party, or paid by him as the case may be in respect of the
+period of notice required to be given under the corresponding
+provisions of that section
+37. (1) Notwithstanding any provisions of this Act,
+where a casual employee―
+(a) works for a period or a number of continuous
+working days which amount in the aggregate to
+the equivalent of not less than one month; or
+(b) performs work which can not reasonably be
+expected to be completed within a period, or a
+number of working days amounting in the
+44
+The Employment Act, 2007
+aggregate to the equivalent of three months or
+more ,
+the contract of service of the casual employee
+shall be deemed to be one where wages are
+paid monthly and section 35 (1) (c) shall apply
+to that contract of service.
+(2) In calculating wages and the continuous
+working days under subsection (1), a casual employee shall be
+deemed to be entitled to one paid rest day after a continuous
+six days working period and such rest day or any public
+holiday which falls during the period under consideration
+shall be counted as part of continuous working days.
+(3) An employee whose contract of service has been
+converted in accordance with subsection (1), and who works
+continuously for two months or more from the date of
+employment as a casual employee shall be entitled to such
+terms and conditions of service as he would have been entitled
+to under this Act had he not initially been employed as a
+casual employee.
+(4) Notwithstanding any provisions of this Act, in any
+dispute before the Industrial Court on the terms and
+conditions of service of a casual employee, the Industrial
+Court shall have the power to vary the terms of service of the
+casual employee and may in so doing declare the employee to
+be employed on terms and conditions of service consistent
+with this Act.
+(5) A casual employee who is aggrieved by the
+treatment of his employer under the terms and conditions of
+his employment may file a complaint with the labour officer
+and section 88 of this Act shall apply.
+45
+The Employment Act, 2007
+Waiver of notice
+by employer.
+Contract expiring
+on a journey may
+be extended.
+Termination on
+account of
+redundancy.
+38. Where an employee gives notice of termination of
+employment and the employer waives the whole or any part
+of the notice, the employer shall pay to the employee
+remuneration equivalent to the period of notice not served by
+the employee as the case may be, unless the employer and the
+employee agree otherwise.
+39. If the period expressed in a contract of service
+expires, or if an employee seeks to terminate a contract where
+no agreement is expressed respecting its duration while the
+employee is engaged on a journey, the employer may, for the
+purpose of the completion of the journey, extend the period of
+service for a sufficient period, but in any case not exceeding
+one month, to enable the employee to complete the journey.
+40.(1) An employer shall not terminate a contract of
+service on account of redundancy unless the employer
+complies with the following conditions -
+(a) where the employee is a member of a trade
+union, the employer notifies the union to which
+the employee is a member and the labour
+officer in charge of the area where the
+employee is employed of the reasons for, and
+the extent of, the intended redundancy not less
+than a month prior to the date of the intended
+date of termination on account of redundancy:
+(b) where an employee is not a member of a trade
+union, the employer notifies the employee
+personally in writing and the labour officer ;
+(c) the employer has, in the selection of employees
+to be declared redundant had due regard to
+seniority in time and to the skill, ability and
+reliability of each employee of the particular
+class of employees affected by the redundancy;
+(d) where there is in existence a collective
+agreement between an employer and a trade
+union setting out terminal benefits payable
+46
+Notification and
+hearing before
+termination on
+grounds of
+misconduct.
+The Employment Act, 2007
+upon redundancy; the employer has not placed
+the employee at a disadvantage for being or
+not being a member of the trade union;
+(e) the employer has where leave is due to an
+employee who is declared redundant , paid off
+the leave in cash;
+(f) the employer has paid an employee declared
+redundant not less than one month’s notice or
+one month’s wages in lieu of notice; and
+(g) the employer has paid to an employee declared
+redundant severance pay at the rate of not less
+than fifteen days pay for each completed year
+of service.
+(2) Subsection (1) shall not apply where an
+employee’s services are terminated on account of
+insolvency as defined in Part IX in which case that Part
+shall be applicable.
+(3) The Minister may make rules requiring an
+employer employing a certain minimum number of
+employees or any group of employers to insure their
+employees against the risk of redundancy through an
+unemployment insurance scheme operated either under an
+established national insurance scheme established under
+written law or by any firm underwriting insurance business
+to be approved by the Minister.
+41. (1). Subject to section 42 (1), an employer shall,
+before terminating the employment of an employee, on the
+grounds of misconduct, poor performance or physical
+incapacity explain to the employee, in a language the
+employee understands, the reason for which the employer is
+considering termination and the employee shall be entitled
+to have another employee or a shop floor union
+representative of his choice present during this explanation.
+(2) Notwithstanding any other provision of this Part,
+47
+Termination of
+probationary
+contracts.
+Proof of reason for
+termination.
+Summary
+dismissal.
+The Employment Act, 2007
+an employer shall, before terminating the employment of an
+employee or summarily dismissing an employee under
+section 44 (3) or (4) hear and consider any representations
+which the employee may on the grounds of misconduct or
+poor performance, and the person, if any, chosen by the
+employee within subsection (1) make.
+42.(1) The provisions of section 41 shall not apply
+where a termination of employment terminates a
+probationary contract.
+(2) A probationary period shall not be more than six
+months but it may be extended for a further period of not
+more than six months with the agreement of the employee.
+(3) No employer shall employ an employee under
+a probationary contract for more than the aggregate period
+provided under subsection (2).
+(4) A party to a contract for a probationary period
+may terminate the contract by giving not less than seven days’
+notice of termination of the contract, or by payment, by the
+employer to the employee, of seven days’ wages in lieu of
+notice.
+43.(1) In any claim arising out of termination of a
+contract, the employer shall be required to prove the reason or
+reasons for the termination, and where the employer fails to
+do so, the termination shall be deemed to have been unfair
+within the meaning of section 45.
+(2) The reason or reasons for termination of a
+contract are the matters that the employer at the time of
+termination of the contract genuinely believed to exist, and
+which caused the employer to terminate the services of the
+employee.
+44.(1) Summary dismissal shall take place when an
+employer terminates the employment of an employee without
+notice or with less notice than that to which the employee is
+entitled by any statutory provision or contractual term.
+48
+The Employment Act, 2007
+(2) Subject to the provisions of this section, no
+employer has the right to terminate a contract of service
+without notice or with less notice than that to which the
+employee is entitled by any statutory provision or contractual
+term.
+(3) Subject to the provisions of this Act, an
+employer may dismiss an employee summarily when the
+employee has by his conduct indicated that he has
+fundamentally breached his obligations arising under the
+contract of service.
+(4) Any of the following matters may amount to
+gross misconduct so as to justify the summary dismissal of an
+employee for lawful cause, but the enumeration of such
+matters or the decision of an employer to dismiss an
+employee summarily under subsection (3) shall not preclude
+an employer or an employee from respectively alleging or
+disputing whether the facts giving rise to the same, or whether
+any other matters not mentioned in this section, constitute
+justifiable or lawful grounds for the dismissal if:-
+(a) without leave or other lawful cause, an
+employee absents himself from the place
+appointed for the performance of his work;
+(b) during working hours, by becoming or being
+intoxicated, an employee renders himself
+unwilling or incapable to perform his work
+properly;
+(c) an employee wilfully neglects to perform any
+work which it was his duty to perform, or if he
+carelessly and improperly performs any work
+which from its nature it was his duty, under his
+contract, to have performed carefully and
+properly;
+(d) an employee uses abusive or insulting
+language, or behaves in a manner insulting, to
+49
+The Employment Act, 2007
+(e) (f) (g) his employer or to a person placed in authority
+over him by his employer;
+an employee knowingly fails, or refuses, to
+obey a lawful and proper command which it
+was within the scope of his duty to obey, issued
+by his employer or a person placed in authority
+over him by his employer.
+in the lawful exercise of any power of arrest
+given by or under any written law, an
+employee is arrested for a cognizable offence
+punishable by imprisonment and is not within
+fourteen days either released on bail or on bond
+or otherwise lawfully set at liberty; or
+an employee commits, or on reasonable and
+sufficient grounds is suspected of having
+committed, a criminal offence against or to the
+substantial detriment of his employer or his
+employer’s property.
+Unfair
+termination.
+45.(1) No employer shall terminate the employment of
+an employee unfairly.
+(2) A termination of employment by an employer is
+unfair if the employer fails to prove―
+(a) that the reason for the termination is valid;
+(b) that the reason for the termination is a fair
+reason―
+(i) related to the employees conduct,
+capacity or compatibility; or
+(ii) based on the operational requirements of
+the employer; and
+(c) that the employment was terminated in
+50
+The Employment Act, 2007
+accordance with fair procedure.
+(3) An employee who has been continuously
+employed by his employer for a period not less than thirteen
+months immediately before the date of termination shall have
+the right to complain that he has been unfairly terminated.
+(4) A termination of employment shall be unfair for
+the purposes of this Part where-
+(a) the termination is for one of the reasons
+specified in section 46; or
+(b) it is found out that in all the circumstances of
+the case, the employer did not act in
+accordance with justice and equity in
+terminating the employment of the employee .
+(5) In deciding whether it was just and equitable for
+an employer to terminate the employment of an employee, for
+the purposes of this section, a labour Officer, or the
+Industrial Court shall consider-
+(a) the procedure adopted by the employer in
+reaching the decision to dismiss the employee,
+the communication of that decision to the
+employee and the handling of any appeal
+against the decision;
+(b) the conduct and capability of the employee up
+to the date of termination;
+(c) the extent to which the employer has complied
+with any statutory requirements connected with
+the termination, including the issuing of a
+certificate under section 51 and the procedural
+requirements set out in section 41;
+(d) the previous practice of the employer in
+dealing with the type of circumstances which
+led to the termination; and
+51
+Reasons for
+termination or
+discipline.
+The Employment Act, 2007
+(f) the existence of any pervious warning letters
+issued to the employee.
+46. The following do not constitute fair reasons for
+dismissal or for the imposition of a disciplinary penalty-
+(a) a female employee’s pregnancy, or any
+reason connected with her pregnancy;
+(b) the going on leave of an employee , or
+the proposal of an employee to take,
+any leave to which he was entitled
+under the law or a contract;
+(c) an employee’s membership or proposed
+membership of a trade union;
+(d) the participation or proposed
+participation of an employee in the
+activities of a trade union outside
+working hours or, with the consent of
+the employer, within working hours;
+(e) an employee’s seeking of office as, or
+acting or having acted in the capacity
+of, an officer of a trade union or a
+workers’ representative;
+(f) an employee’s refusal or proposed
+refusal to join or withdrawal from a
+trade union;
+(g) an employee’s race, colour, tribe, sex,
+religion, political opinion or affiliation,
+national extraction, nationality, social
+origin, marital status, HIV status or
+disability;
+(h) an employee’s initiation or proposed
+initiation of a complaint or other legal
+52
+Complaint of
+summary dismissal
+and unfair
+termination.
+The Employment Act, 2007
+proceedings against his employer,
+except where the complaint is shown to
+be irresponsible and without
+foundation; or
+(e) an employee’s participation in a lawful
+strike.
+47.(1) Where an employee has been summarily
+dismissed or his employer has unfairly terminated his
+employment without justification, the employee may,
+within three months of the date of dismissal, present a
+complaint to a labour officer and the complaint shall be
+dealt with as a complaint lodged under section 71.
+(2) A labour officer who is presented with a claim
+under this section shall, after affording every opportunity to
+both the employee and the employer to state their case,
+recommend to the parties what in his opinion would be the
+best means of settling the dispute in accordance with the
+provisions section 49.
+(3) The right of the employee to present a complaint
+under this section shall be in addition to his right to
+complain to the Industrial Court on the same issue and to
+the right to complain of any other infringement of his
+statutory rights.
+(4) The right of an employee to make a complaint
+under this section shall be in addition to any right an
+employee may enjoy under a collective agreement.
+(5) For any complaint of unfair termination of
+employment or wrongful dismissal the burden of proving
+that an unfair termination of employment or wrongful
+dismissal has occurred shall rest on the employee, while the
+burden of justifying the grounds for the termination of
+employment or wrongful dismissal shall rest on the
+employer.
+(6) No employee whose services have been terminated
+53
+The Employment Act, 2007
+Representation. Remedies for
+wrongful dismissal
+and unfair
+termination.
+or who has been summarily dismissed during a probationary
+contract shall make a complaint under this section.
+48. In any complaint made under section 47, no advocate
+shall represent a party in the proceedings before a labour
+officer, but any party may be assisted or represented by an
+official of a trade union or an official of an employer’s
+organisation notwithstanding the fact that the official is an
+advocate.
+49. (1) Where in the opinion of a labour officer summary
+dismissal or termination of a contract of an employee is
+unjustified, the labour officer may recommend to the
+employer to pay to the employee any or all of the following -
+(a) the wages which the employee would have
+earned had the employee been given the period
+of notice to which he was entitled under this
+Act or his contract of service;
+(b) where dismissal terminates the contract before
+the completion of any service upon which the
+employee’s wages became due, the proportion
+of the wage due for the period of time for
+which the employee has worked; and any other
+loss consequent upon the dismissal and arising
+between the date of dismissal and the date of
+expiry of the period of notice referred to in
+paragraph (a) which the employee would have
+been entitled to by virtue of the contract.; or
+(c) the equivalent of a number of months wages or
+salary not exceeding twelve months based on
+the gross monthly wage or salary of the
+employee at the time of dismissal.
+(2) Any payments made by the employer under this
+section shall be subject to statutory deductions.
+(3) Where in the opinion of a labour officer an
+employee’s summary dismissal or termination of
+54
+The Employment Act, 2007
+employment was unfair, the labour officer may recommend
+to the employer to -
+(a) reinstate the employee and treat the employee
+in all respects as if the employees employment
+had not been terminated; or
+(b) re-engage the employee in work comparable to
+that in which the employee was employed prior
+to his dismissal, or other reasonably suitable
+work, at the same wage .
+(4) A labour officer shall, in deciding whether to
+recommend the remedies specified in subsections (1) and
+(3), take into account any or all of the following-
+(a) the wishes of the employee;
+(b) the circumstances in which the
+termination took place, including the
+extent, if any, to which the employee
+caused or contributed to the
+termination; and
+(c) the practicability of recommending
+reinstatement or re-engagement.
+(d) the common law principle that there
+should be no order for specific
+performance in a contract for service
+except in very exceptional
+circumstances;
+(e) the employee’s length of service with the
+employer;
+(f) the reasonable expectation of the employee
+as to the length of time for which his
+employment with that employer might
+have continued but for the termination;
+55
+Courts to be
+guided.
+Certificate of
+service.
+The Employment Act, 2007
+(g) the opportunities available to the employee
+for securing comparable or suitable
+employment with another employer;
+(h) the value of any severance payable by law;
+(i) the right to press claims or any unpaid
+wages, expenses or other claims owing to
+the employee;
+(j) any expenses reasonable incurred by the
+employee as a consequence of the
+termination;
+(k) any conduct of the employee which to any
+extent caused or contributed to the
+termination;
+(l) any failure by the employee to reasonably
+mitigate the losses attributable to the
+unjustified termination; and
+(m) any compensation, including ex-gratia
+payment, in respect of termination of
+employment paid by the employer and
+received by the employee.
+50. In determining a complaint or suit under this Act
+involving wrongful dismissal or unfair termination of the
+employment of an employee, the Industrial Court shall be
+guided by the provisions of section 49.
+51.(1) An employer shall issue to an employee a
+certificate of service upon termination of his employment,
+unless the employment has continued for a period of less than
+four consecutive weeks.
+(2) A certificate of service issued under subsection (1)
+shall contain―
+(a) the name of the employer and his postal
+56
+Interpretation. The Employment Act, 2007
+address;
+(b) the name of the employee;
+(c) the date when employment of the
+employee commenced;
+(d) the nature and usual place of
+employment of the employee;
+(e) the date when the employment of the
+employee ceased; and
+(f) such other particulars as may be
+prescribed.
+(2) Subject to subsection (1), no employer is bound to
+give to an employee a testimonial, reference or certificate
+relating to the character or performance of that employee.
+(3) An employer who wilfully or by neglect fails to
+give an employee a certificate of service in accordance with
+subsection (1), or who in a certificate of service includes a
+statement which he knows to be false, commits an offence
+and shall on conviction be liable to a fine not exceeding one
+hundred thousand shillings or to imprisonment for a term
+not exceeding six months or to both.
+PART VII―PROTECTION OF CHILDREN.
+52. requires―
+In this Part, except where the context otherwise
+“employment” means employment of a child in a
+situation where―
+(a) the child provides labour as an assistant to another
+person and his labour is deemed to be the labour of
+that other person for the purposes of payment;
+(b) the child’s labour is used for gain by any person or
+57
+The Employment Act, 2007
+institution whether or not the child benefits directly or
+indirectly; and
+(c) there is in existence a contract for service where the
+party providing the service is a child whether the
+person using the services does so directly or by agent.
+Prohibition of
+worst forms of
+child labour.
+Complaint to the
+labour officer or
+police officer.
+53.(1) Notwithstanding any provision of any written
+law, no person shall employ a child in any activity which
+constitutes worst form of child labour.
+(2) The Minister shall, in consultation with the Board,
+make regulations declaring any work, activity or contract of
+service harmful to the health, safety or morals of a child and
+subsection (1) shall apply to such work, activity or contract of
+service.
+54.(I) A person may make a complaint to a labour officer
+or a police officer of the rank of an inspector and above if that
+person considers any child to be employed in any activity
+which constitute worst form of child labour.
+(2) On receipt of a complaint under subsection (1), the
+labour officer or the police officer, as the case may be, shall
+within seven days investigate the complaint and submit his
+finding to the person who filed the complaint and to the
+Minister.
+(3) Where the labour officer or the police officer
+considers it not expedient to conduct an investigation under
+subsection (2), he shall in writing inform the person and the
+Minister accordingly, giving reasons thereof.
+(4) Notwithstanding subsection (2) employment of
+a child in any work constituting worst form of child labour
+shall constitute a cognisable offence punishable under section
+64 or any other written law provided that no person shall be
+punished twice for the same offence.
+58
+The Employment Act, 2007
+Powers of labour
+officer to cancel and
+prohibit contracts.
+Cap.237
+55.(1) A labour officer may, by notice in writing
+served upon an employer, terminate or cancel any contract of
+service, other than a deed of apprenticeship or indentured
+learnership lawfully entered into under the provisions of the
+Industrial Training Act, which has been entered into by a
+child with the employer, on grounds that, in the opinion of
+that labour officer, the employer is an undesirable person, or
+that the nature of the employment constitutes worst forms of
+child labour or for any other cause which may be prescribed.
+(2) A labour officer may, by notice in writing served
+upon any person, prohibit that person from employing a child
+in any class or description of employment specified in the
+notice, on grounds that, in the opinion of the labour officer,
+that person is an undesirable person, or that the nature of the
+employment constitutes worst forms of child labour or for any
+other cause which may be prescribed.
+(3) A notice given under subsection (1) or
+subsection (2) shall be personally served upon the employer or
+the person to whom it is addressed.
+(4) An employer, employee or person who is
+aggrieved by a notice given under subsection (1) or subsection
+(2) may, within thirty days after the date of service thereof,
+appeal in writing against that notice to the Industrial Court
+which may confirm or set aside the notice and the decision of
+the court shall be final.
+(5) An employer or a person who, having been
+served with a notice under subsection (1) or subsection (2)
+which has not been set aside on appeal, employs or continues
+to employ the child to whom the notice refers in or about the
+employment to which the notice relates, or any similar
+employment, or, as the case may be, employs any child in the
+employment to which the notice relates, or any similar
+employment, commits an offence.
+(6) It shall not be an offence for an employer served
+with a notice given under subsection (1) to continue to
+employ the child to whom the notice refers during the period
+59
+Prohibition of
+employment of
+children between
+thirteen years and
+sixteen years of age.
+Prohibition of written
+contracts for child
+between thirteen and
+sixteen years of age.
+The Employment Act, 2007
+of thirty days limited for appeal or, if an appeal is lodged and
+subject to obtaining from the Industrial Court a temporary
+stay of execution of the labour officer’s notice within, such
+period as the court may determine, pending the outcome of
+that appeal.
+56. (1) No person shall employ a child who has not
+attained the age of thirteen years whether gainfully or
+otherwise in any undertaking.
+(2) A child of between thirteen years of age and
+sixteen years of age may be employed to perform light work
+which is-
+(a) not likely to be harmful to the child’s health or
+development; and
+(b) not such as to prejudice the child’s attendance
+at school, his participation in vocational
+orientation or training programmes approved
+by Minister or his capacity to benefit from the
+instructions received.
+(3) The Minister may make rules prescribing light
+work in which a child of between thirteen years of age and
+sixteen years of age may be employed and the terms and
+conditions of that employment.
+57. Subject to the provisions of the Industrial Training
+Act relating to contracts of apprenticeship or indentured
+learnership, a person who employs a child of between thirteen
+and sixteen years of age, or causes such a child to be
+employed, or being the parent or guardian or other person
+having for the time being the charge of or control over the
+child, allows the child to be employed, otherwise than under a
+verbal contract of service commits an offence and shall on
+conviction be liable to a fine not exceeding one hundred
+thousand shillings or to imprisonment for a term not
+exceeding six months or to both.
+60
+Restriction in
+employing child of
+between thirteen and
+sixteen years of age
+to attend machinery.
+Time restriction in
+employing a child. Emergencies. Registers of child in
+employment. The Employment Act, 2007
+58. (1) No person shall employ a child of between
+thirteen and sixteen years of age, other than one serving under
+a contract of apprenticeship or indentured learnership in
+accordance with the provisions of the Industrial Training Act,
+in an industrial undertaking to attend to machinery.
+(2) No person shall employ a child in any opencast
+workings or sub-surface workings that are entered by means
+of a shaft or adit.
+59.(1) Subject to section 60, no person shall employ a
+child in an industrial undertaking between the hours of 6.30
+p.m. and 6.30 a.m.
+(2) Notwithstanding the provision of subsection (1), a
+person may employ a male young person in cases of
+emergencies which could not have been controlled or
+foreseen, and which interfere with the normal working of the
+industrial undertaking and which are not of a periodical
+nature.
+(3) Notwithstanding the provision of subsection (1),
+the Minister may, after consultation with the Board, authorise
+an employer in writing to employ a young person for a
+specific period of the night subject to such conditions as the
+Minister may determine.
+60. In case of a serious emergency, when the public
+interest demands it, the Minister may, by notice in the
+Gazette, suspend the operation of section 59.
+61. An employer who employs a child shall keep and
+maintain a register containing the following particulars of
+every child he employs-
+(a) age and date of birth;
+(b) date of entry into and of leaving the
+employment;
+(c) such other particulars as may be prescribed.
+61
+The Employment Act, 2007
+Medical examination
+of a child employee.
+Determination of
+age.
+Penalty for unlawful
+employment of child. 62. An authorised officer may require a child in
+employment to be medically examined at any time during the
+period of the child’s employment.
+63. (1) If, during the hearing of a charge for an offence
+under this Act it is alleged that any person was at the date of
+the offence of, over or under a particular age, the court
+hearing the charge shall, after such inquiry as it considers
+necessary and after hearing any evidence which may be
+tendered by any party to the proceedings, determine the age of
+that person for the purposes of the proceedings, and the
+determination shall be final.
+(2) No conviction, order or judgment of a court under
+this Act shall be invalidated by any subsequent proof
+that the age of any person has not been correctly stated to, or
+determined by, the court.
+(3) Subject to the provision of subsection (1),
+whenever any question arises as to the age of an employee
+and no sufficient evidence is available as to that employee’s
+age, a medical officer may estimate the age of the employee
+by his appearance or from any available information, and the
+age so estimated shall, for purposes of this Act, and until the
+contrary is proved, be deemed to be the true age of the
+employee.
+64. (1) A person who employs, engages, or uses a child
+in an industrial undertaking in contravention of the provisions
+of this Part, commits an offence.
+(2) A person who uses a child in any activity constituting
+worst form of child labour commits an offence and shall on
+conviction be liable to a fine not exceeding two hundred
+thousand shillings or to imprisonment for a term not
+exceeding twelve months or to both.
+(3) It shall be a defence if the accused person proves that
+he genuinely had reason to believe that the child was above
+62
+The Employment Act, 2007
+Penalty in case of
+death or injury of a
+child.
+the age limit, which is the subject of the charge.
+65. (1) If a child is killed, dies or suffers any bodily injury
+in consequence of his employer having contravened any
+provision of this Part, the employer shall, in addition to any
+other penalty, be liable to a fine not exceeding five hundred
+thousand shillings or to imprisonment for a term not
+exceeding twelve months or to both and the whole or any part
+of the fine may be applied for the benefit of the injured child
+or his family or otherwise as the Minister may direct.
+(2) An employer shall not be liable under subsection
+(1)―
+Insolvency of
+employer. (a) in the case of injury to health, unless the injury
+was caused directly by the contravention; and
+(b) if a charge against him under this Part in respect
+of the act or default by which the death or injury
+was caused has been heard and dismissed before
+the injury occurred.
+PART VIII―INSOLVENCY OF EMPLOYER.
+66.(1) Where on an application made to him in writing
+by an employee or his representative the Minister is satisfied
+that-
+(a) the employer of an employee has become
+insolvent,
+(b) the employment of the employee has
+been terminated, and
+(c) on the appropriate date the employee was
+entitled to be paid the whole or part of
+any debt to which this Part applies,
+the Minister shall, subject to section 69, pay
+the employee out of the National Social
+Security Fund, the amount to which, in the
+63
+Definition of
+insolvency. Debts to which Part
+applies. The Employment Act, 2007
+67. this Part-
+opinion of the Minister, the employee is
+entitled in respect of the debt.
+An employer is insolvent for the purposes of
+(a) if the employer is a person who―
+(i) has been adjudged bankrupt or has made a
+composition or arrangement with his creditors,
+or
+(ii) has died and his estate is to be administered in
+accordance with the Law of Succession Act;
+(b) if the employer is a company―
+(i) a winding up order or an administration order
+has been made, or a resolution for voluntary
+winding up has been passed, with respect to
+the company; or
+(ii) a receiver or a manager of the company’s
+undertaking has been duly appointed, or
+possession has been taken, by or on behalf of
+the holders of any debentures secured by a
+floating charge, of any property of the
+company comprised in or subject to the charge.
+68. This part applies to the following debts―
+(a) (b) any arrears of wages in respect of one
+or more months ,but not more than six
+months or part thereof;
+any amount which the employer is
+liable to pay the employee for the
+period of notice required by section 36
+or for any failure of the employer to
+give the period of notice required by
+64
+Limitation on
+amount payable
+under section 68.
+Role of relevant
+officer. The Employment Act, 2007
+section 35 (1) (ii), and (iii);
+(c) any pay in lieu of leave for annual leave
+days earned but not taken in accordance
+with section 28;
+(d) any basic award of compensation for
+unfair dismissal; and
+(e) any reasonable sum by way of
+reimbursement of the whole or part of
+any fee or premium paid by an
+apprentice.
+69.(1) The total amount payable to an employee in
+respect of any debt to which this Part applies, where the
+amount of the debt is referable to a period of time, shall not
+exceed―
+(a) ten thousand shillings or one half of the
+monthly remuneration whichever is
+greater in respect of any one month
+payable; or
+(b) in respect of a shorter period an amount
+proportionate to the shorter period
+based on the amount payable under
+paragraph (a) .
+(2) The Minister may, on the advise of the Board,
+by Order in the Gazette, vary the limit specified in
+subsection (1).
+70. (1) Where a relevant officer has been, or is
+required to be, appointed in connection with an employer’s
+insolvency, the Minister shall not make a payment under
+section 66 in respect of a debt until the Minister has
+received a statement from the relevant officer of the amount
+of that debt which appears to have been owed to the
+employee on the appropriate date and to remain unpaid.
+65
+The Employment Act, 2007
+(2) A relevant officer shall, on the request of the
+Minister, provide the Minister with a statement for the
+purposes of subsection (1) as soon as is reasonably
+practicable.
+(3) If the Minister is satisfied that he does not require
+a statement under subsection (1) in order to determine the
+amount of a debt which was owed to the employee on the
+appropriate date and remains unpaid, he may make a
+payment in respect of the debt without having received the
+statement.
+Cap..53
+Complaint to
+Industrial Court.
+(4) The following are relevant officers for the
+purposes of this section―
+(a) a trustee in bankruptcy or a permanent
+or interim trustee within the meaning of
+Bankruptcy Act;
+(b) a liquidator;
+(c) an administrator;
+(d) a receiver or manager;
+(e) a trustee under a composition or
+arrangement between the employer and
+his creditors; and
+(f) a trustee under a trust deed for his
+creditors executed by the employer.
+71.(1) A person who has applied for a payment under
+section 66 may present a complaint to the Industrial Court―
+(a) that the Minister has failed to make the
+payment; or
+(b) that the payment made by the Minister is less
+than the amount which should have been paid.
+66
+Transfer of rights
+and remedies. The Employment Act, 2007
+(2) The Industrial Court shall not consider a complaint
+under subsection (1) unless it is presented-
+(a) before the end of the period of three months
+beginning with the date which the decision of
+the Minister on the application was
+communicated to the applicant; or
+(b) within such further period as the Industrial
+Court considers reasonable in a case where it is
+not reasonably practicable for the complaint to
+be presented before the end of that period of
+three months.
+(3) Where the Industrial Court finds that the Minister
+should have made a payment under section 66, the Industrial
+Court shall―
+(a) make an award to that effect, and
+(b) declare the amount of any payment which it
+finds the Minister ought to make.
+72.(1) Where, in pursuance of section 66, the Minister
+makes a payment to an employee in respect of a debt to which
+this Part applies―
+(a) on the making of the payment, any rights and
+remedies of the employee in respect of the debt
+or, if the Minister has paid only part of it, in
+respect of that part become rights and remedies
+of the Minister; and
+(b) any decision of the Industrial Court requiring
+an employer to pay that debt to the employee
+has the effect that the debt, or the part of it
+which the Minister has paid, is to be paid to the
+Minister.
+(2) Where a debt or any part of a debt in respect of
+67
+Power to obtain
+information. The Employment Act, 2007
+Cap.486
+which the Minister has made a payment in pursuance of
+section 66 constitutes a preferential debt within the meaning
+of the Companies Act, and the rights which become rights of
+the Minister in accordance with subsection (1) include any
+right arising under any such provision by reason of the status
+of the debt, or that part of it, as preferential debt.
+(3) In computing payment for the purposes of
+subsection (2), the aggregate amount payable in priority to
+other creditors of the employer in respect of-
+(a) any claim of the Minister to be paid in priority
+to other creditors of the employer by virtue of
+subsection (2); and
+(b) any claim by the employee to be so paid made
+in the employee’s own right,
+any claim of the Minister to be paid by virtue of subsection
+(2) shall be treated as if it were a claim of the employee.
+(4) The Minister shall be entitled, as against the
+employee, to be paid in respect of any claim made by the
+Minister the full amount of the claim before any payment is
+made to the employee in respect of any claim by the
+employee to be paid made in the employee’s own right.
+(5) Any sum recovered by the Minister in
+exercising any right, or pursuing any remedy, under this
+section shall be paid into the National Social Security Fund.
+73.(1) Where an application is made to the Minister
+under section 66 in respect of debt owed by an employer, the
+Minister may require-
+(a) the employer to provide him with such
+information as he may reasonably require for
+the purpose of determining whether the
+application is well founded; and
+(b) any person having the custody or control of any
+68
+The Employment Act, 2007
+relevant records or other documents the
+Minister may require to produce for
+examination on behalf of the Minister any such
+records or document.
+(2) A request for information, records or a document
+under subsection (1) ―
+(a) shall be made by notice in writing to the
+person required to furnish the information, or
+produce the records or document; and
+(b) may be varied or revoked by a subsequent
+notice so given.
+(3) A person who refuses or wilfully neglects to
+furnish any information or produce any record or document
+that he has been required to furnish or produce by a notice
+under this section commits an offence and shall on conviction
+be liable to a fine not exceeding one hundred thousand
+shillings or to imprisonment for a term not exceeding six
+months or to both.
+(4) A person who in purporting to comply with a
+requirement of a notice under this section, knowingly or
+recklessly makes any false statement commits an offence.
+(5) Where an offence under this section is committed
+by a body corporate and is proved―
+(a) to have been committed with the
+consent or connivance of; or
+(b) to be attributable to any neglect on the
+part of, any director, manager, secretary
+or other similar officer of the body
+corporate, or any person who was
+purporting to act in any such capacity,
+that person and the body corporate
+commits an offence.
+(6) Where a member of a body corporate manages the
+69
+The Employment Act, 2007
+body corporate, subsection (5) shall apply in relation to the
+acts and defaults of a member in connection with his
+functions of management as if he were a director of the body
+corporate.
+Records to be kept
+by employer. PART IX―EMPLOYMENT RECORDS
+74. (1) An employer shall keep a written record of all
+employees employed by him, with whom he has entered into
+a contract under this Act which shall contain the particulars―
+(a) of a policy statement under section 7(2) where
+applicable;
+(b) specified in section10(3);
+(c) specified in section 13;
+(d) specified in sections 21 and 22
+(e) of an employee’s weekly rest days specified in
+section 27;
+(f) of an employees annual leave entitlement, days
+taken and days due specified in section 28;
+(g) of maternity leave specified in
+section 29;
+(h) of sick leave specified in section 30;
+(i) where the employer provides housing, particulars
+of the accommodation provided and, where the
+wage rates are deconsolidated particulars of the
+house allowance paid to the employee;
+(j) of food rations where applicable;
+(k) specified in section 61;
+(l) of a record of warning letters or other
+70
+False entries etc. The Employment Act, 2007
+evidence of misconduct of an employee;
+and
+(m) any other particulars required to be kept
+under any written law or as may be
+prescribed by the Minister.
+(2) An employer shall permit an authorised officer who
+may require an employer to produce for inspection the record
+for any period relating to the preceding thirty six months to
+examine the record.
+(3) Where an employer who employs a child maintains a
+register in accordance with section 61, the employer shall be
+deemed to have complied with this section if the register
+contains in relation to each child, the particulars required to be
+kept by the employer under subsection (1).
+75. A person who makes, causes to be made or knowingly
+allows to be made an entry in a register, record, book or other
+document whatsoever, required by this Act to be kept, which
+that person knows to be false in a material particular, or
+produces, furnishes, causes or knowingly allows to be
+produced or furnished, to an authorised officer, a register,
+record, book or other document which he knows to be false in
+a material particular, commits an offence and shall on
+conviction be liable to a fine not exceeding one hundred
+thousand shillings or to imprisonment for a term not
+exceeding six months or to both.
+71
+Notification of
+vacancies.
+Notification of filling
+or abolition of post. Notification of
+termination of
+employment.
+The Employment Act, 2007
+PART X―EMPLOYMENT MANAGEMENT
+76.(1) This Part shall apply to an employer who employs
+twenty-five employees or more.
+(2) An employer shall notify the Director of every
+vacancy occurring in his establishment, business or work
+place in a prescribed form giving the following details―
+(a) the employer’s name and full address;
+(b) details of the vacant post;
+(c) minimum qualification required
+of the person seeking to be employed;
+(d) the place of work, and
+(e) the type of work, whether casual, permanent or
+term contract; and
+(f) such other information as the Director may require
+.
+(3) A vacancy shall be deemed to occur on the date-
+(a) an employer creates a post to be filled by an
+employee or decides to engage one.
+(b) an employee terminates or has his employment
+terminated by the employer and the employer
+abolishes the post.
+77. When a post, which has been notified to the
+Director as vacant, has been filled or has been abolished
+before being filled, the employer shall notify the employment
+service office of this in writing within two weeks of the filing
+of the post or of its abolition, as the case may be.
+78.An employer shall notify the termination of every
+employment and of each lay-off of a person in writing to the
+nearest employment service office within two weeks of the
+termination or lay-off.
+72
+Register of
+employees. Exemptions. Offence under Part. Form and attestation. Requirement before
+attestation. The Employment Act, 2007
+79. An employer shall keep a register in which the
+employer shall enter the full name, age, sex, occupation, date
+of employment, nationality and educational level of each of
+his employees and a return of employees for each calendar
+year, ending on 31st December containing such information
+shall be sent to the Director not later than 31st January of the
+following year.
+80. The Minister may exempt any category of
+employers, any sector of industry or any industry from this
+Part, or any section of this Part or may vary the limit of its
+application provided under section 68 (1).
+81. An employer who contravenes any of the provisions
+of this Part commits an offence and shall on conviction be
+liable to a fine not exceeding one hundred thousand shillings
+or to imprisonment for a term not exceeding six months or to
+both.
+PART XI―FOREIGN CONTRACTS OF SERVICE
+83. A foreign contract of service shall be in the
+prescribed form, signed by the parties thereto, and shall be
+attested by a labour officer.
+84. A foreign contract of service shall not be attested
+unless the labour officer is satisfied―
+(a) that the consent of the employee to the contract
+has been obtained;
+73
+Security in foreign
+contract of service. Offence to induce
+person to proceed
+abroad under
+informal contract.
+The Employment Act, 2007
+(b) of the absence of any fraud, coercion or undue
+influence, and any mistake of fact, or
+misrepresentation which might have induced the
+employee to enter into the contract;
+(c) that the contract is in the prescribed form;
+(d) that the terms and conditions of employment
+contained in the contract comply with the
+provisions of this Act and have been
+understood by the employee;
+(e) that the employee is medically fit for the
+performance of his duties under the contract;
+and
+(f) that the employee is not bound to serve under
+any other contract of service during the period
+provided in the foreign contract.
+85.(1) When the employer who enters into a foreign
+contract of service does not reside or carry on business
+within Kenya, the employer shall, or where the employer
+resides in Kenya, the labour officer may require the
+employer to, give security by bond in the prescribed form,
+with one or more sureties resident in Kenya and approved
+of by the labour officer for the due performance of the
+contract in such sums as the labour officer considers
+reasonable.
+(2) Where the employer has an authorised agent
+resident in Kenya, the Minister may require that the security
+bond specified in subsection (1) be given by the agent and
+the agent shall personally be bound by the terms of the bond
+notwithstanding the disclosure of his principal.
+86. A person who―
+74
+The Employment Act, 2007
+(a) employs, engages, or knowingly aids in
+the employment or engagement of, a
+person with the intention that when so
+employed or engaged that person shall
+proceed outside the limits of Kenya; or
+(b) induces or attempts to induce an
+employee to proceed outside the limits
+of Kenya,
+unless he has under this Act, duly entered into a foreign
+contract of service with that person or employee, as the case
+may be, commits an offence and shall on conviction be liable
+to a fine not exceeding two hundred thousand shillings or to
+imprisonment for a term not exceeding six months or to both.
+Complaint and
+jurisdiction in cases
+of dispute between
+employers and
+employees.
+PART XII― DISPUTES SETTLEMENT PROCEDURE
+87. (1) Subject to the provisions of this Act
+whenever―
+(a) an employer or employee neglects or
+refuses to fulfill a contract of service; or
+(b) any question, difference or dispute arises
+as to the rights or liabilities of either party;
+or
+(c) touching any misconduct, neglect or ill
+treatment of either party or any injury to the
+person or property of either party, under
+any contract of service,
+the aggrieved party may complain to the labour
+officer or lodge a complaint or suit in the Industrial
+Court.
+(2) No court other than the Industrial Court shall
+determine any complaint or suit referred to in subsection
+(1).
+75
+General penalty and
+offences under other
+laws.
+Saving of contracts
+of service made
+abroad.
+The Employment Act, 2007
+(3) This section shall not apply in a suit where the
+dispute over a contract of service or any other matter
+referred to in subsection (1) is similar or secondary to the
+main issue in dispute.
+88. (1) A person, other than a child, who commits an
+offence under this Act, or contravenes or fails to comply
+with any of the provisions of this Act for which no penalty
+is specifically provided shall be liable to a fine not
+exceeding fifty thousand shillings or to imprisonment for a
+term not exceeding three months or to both.
+(2) Nothing in this Act shall prevent an employer or
+employee from being proceeded against according to law
+for an offence punishable under any other law in force.
+(3) No employer or employee shall be punished
+twice for the same offence.
+89.(1) Nothing in this Act shall prevent an employer
+or employee from enforcing their respective rights and
+remedies for any breach or non-performance of a lawful
+contract of service made outside Kenya, but the respective
+rights of the parties under that contract as well against each
+other as against third parties invading those rights may be
+enforced in the same manner as other contracts.
+(2) Where a contract has been executed in conformity
+with this Part, it shall be enforced in the same manner as a
+contract entered into under this Act, but no written contract,
+tenor and execution of which are not in conformity with this
+Act shall be enforced as attains an employee who is unable to
+read and understand the contract and any such contract shall
+be deemed to be executed in conformity with this Act if it is
+signed by the names or marks of the contracting parties and
+bears, as concerns any illiterate parties, an attestation to the
+like effect as if prescribed by this Act.
+(3) Where a contract is made in a foreign country, the
+contract shall be attested by a judge or magistrate, and shall
+76
+Limitations
+Cap.22
+Rules. The Employment Act, 2007
+be authenticated by the official seal of the court to which the
+judge of magistrate is attached.
+90. Notwithstanding the provisions of section 4 (1) of the
+Limitation of Actions Act, no civil action or proceedings
+based or arising out of this Act or a contract of service in
+general shall lie or be instituted unless it is commenced within
+three years next after the act, neglect or default complained or
+in the case of continuing injury or damage within twelve
+months next after the cessation thereof.
+PART XIII― MISCELLANEOUS PROVISIONS
+91. (1) The Minister may, after consultation with the
+Board, make rules providing for all or any of the purposes, for
+the administration of this Act or that may be necessary or
+expedient for carrying out the objects or purposes of this Act,
+and, without prejudice to the generality of the foregoing, for
+all or any of the following purposes―
+(a) (b) (c) (d) (e) prescribing anything which under this
+Act is to be or may be prescribed;
+the conditions under which employees
+may be housed or employed, including
+sanitary arrangements and water
+supply;
+the feeding of employees in cases
+where food is to be supplied by the
+employer under the contract of service,
+including the quantity, variety and kind
+of food to be supplied;
+regulating the care of sick and injured
+employees;
+prescribing books to be kept and
+returns to be rendered by employers;
+77
+The Employment Act, 2007
+(f) prescribing-
+(i) for any period, the maximum number
+of hours during which any employee
+or class of employees, whether
+generally or in relation to any
+particular kind of employment, may
+be required to work;
+(ii) the intervals to be allowed to them for
+meals and rest;
+(iii) the holidays or half holiday ,with or
+without pay and travelling expenses
+to be allowed to employees;
+(iv) any other conditions to be observed in
+relation to their employment; and any
+such conditions may relate to feeding,
+housing, medical attendance,
+education, recreation, discipline or
+otherwise;
+(g) appointing labour supervisors where
+employees of one employer exceed the
+maximum prescribed;
+(h) the registration and employment of
+casual employees;
+(i) the establishment and administration of
+employment exchanges, including the
+procedure to be adopted for the
+notification of employment vacancies
+and opportunities;
+(j) prescribing the conditions of the
+employment of women, young persons
+or children in any specified trade or
+occupation;
+78
+The Employment Act, 2007
+(k) prescribing the age at which a child
+may be employed;
+(l) requiring employers of children to
+furnish information and return to any
+specified officer in respect of such
+children or their employment or the
+conditions of their employment;
+(j) issue by employer or any class of
+employers to employees or any class of
+employees, whether generally or in
+relation to any particular kind of
+employment, of employment cards, and
+the forms of such cards;
+(k) prescribing particulars to be included in
+a certificate of service; and
+(l) prescribing the form, and providing for
+the display in places of employment, of
+notices relating to wages and the terms
+and conditions of employment.
+(2) Any rules made under this section may impose
+conditions, require acts or things to be performed or done
+to the satisfaction of an authorised officer or a medical
+officer, empower any such officer to issue orders either
+verbally or in writing requiring acts or things to be
+performed or done or prohibiting acts or things from being
+performed or done, and may prescribe periods or dates
+upon, within or before which such acts or things shall be
+performed or done or such conditions shall be fulfilled.
+(3) Any rules made under this section may
+distinguish between juveniles of different ages and sexes
+and, in relation to women or juveniles, between different
+localities, occupations and circumstances.
+79
+The Employment Act, 2007
+Repeal of Cap 226
+and savings. Transitional
+provisions.
+92. (1) The Employment Act is repealed.
+(2) Except where otherwise provided, the provisions
+of this Act shall be in addition to, and not in substitution for
+or in derogation of, the provisions of any other Act.
+(3) A term of contract of service, or foreign contract of
+service to which Part XI of this Act applies, made after the
+date of commencement of this Act which provides a condition
+of service or employment less favourable to an employee than
+the like condition of employment provided by this Act, shall
+be void to the extent that it is so less favourable, and the
+relevant condition of employment provided by his Act shall
+be deemed to have been included in and to form part of such
+contract or foreign contract of service as the case may be.
+93. (1)A valid contract of service, and foreign contract
+of service to which Part XI applies, entered into in accordance
+with the Employment Act (now repealed) shall continue in
+force to the extent that the terms and conditions thereof are
+not inconsistent with the provisions of this Act, and subject to
+the foregoing every such contract shall be read and construed
+as if it were a contract made in accordance with and subject to
+the provisions of this Act, and the parties thereto shall be
+subject to those provisions accordingly.
+80

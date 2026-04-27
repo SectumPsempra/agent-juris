@@ -1,0 +1,57 @@
+name: Evaluations
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "backend/src/agents/**"
+      - "backend/evals/**"
+      - "data/raw/**"
+      - ".github/workflows/evals.yml"
+  workflow_dispatch:
+    inputs:
+      run_llm_judge:
+        description: "Also run LLM-as-judge eval (incurs ~$0.30 in API costs)"
+        type: boolean
+        default: false
+
+jobs:
+  extraction-eval:
+    name: Extraction golden-case eval
+    runs-on: ubuntu-latest
+    continue-on-error: true  # non-blocking: no OPENAI_API_KEY in repo secrets
+    defaults:
+      run:
+        working-directory: backend
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v4
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Run extraction eval (golden cases)
+        run: uv run python -m evals.eval_extraction
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
+  llm-judge:
+    name: LLM-as-judge eval (manual only)
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'workflow_dispatch' && inputs.run_llm_judge == true }}
+    defaults:
+      run:
+        working-directory: backend
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v4
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Run LLM judge eval
+        run: uv run python -m evals.eval_llm_judge --threshold 3.0
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}

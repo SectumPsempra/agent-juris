@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS healthcheck (
+  id SERIAL PRIMARY KEY,
+  created_at TIMESTAMPTZ DEFAULT NOW()
+);

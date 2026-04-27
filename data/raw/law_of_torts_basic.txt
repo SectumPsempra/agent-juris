@@ -1,0 +1,123 @@
+THE LAW OF TORTS (basic overview)
+The word tort has been derived from the Latin tortus which means crooked or twisted. In French, tort
+means a wrong. In law, tort denotes certain civil wrongs. It means, a tort is a wrong. Sir F. Pollock has
+defined tort as “An act which causes harm to a determinate person, whether intentionally or not, not
+being a breach of a duty arising out of a personal relation or contract, and which is either contrary to law,
+or an omission of a specific legal duty, or a violation of an absolute right”.
+Every tort results from the breach of a certain duty which is primarily fixed by law, unlike other civil
+wrongs, such as breach of contract, where the duty in question is fixed by the parties themselves. Thus,
+the duty not to defame, injure or damage the property of any person is one fixed by the law and its
+breach may constitute a tort, whereas the duty to supply goods under a contract of sale is duty created
+by the parties themselves in their contract. In tort, the duty is imposed on persons generally, i.e. on ever
+individual, but in other cases the duty is imposed only on the parties concerned, e.g. the duties created
+by a contract are imposed only on the parties to the contract and on no one else. Similarly, the duty in
+tort is owed to every other person, unlike in contract cases where one contracting party owes his
+contractual obligation to the other contracting party and to no one else.
+A tort, as such, differs from other civil wrongs in a number of respects. It is common law wrong which is
+usually remedied by an award of “Unliquidated Damages”. Unliquidated damages are those whose
+quantum or assessment is left for the determination to a court at its discretion. These are distinct from
+liquidated damages which are fixed by the plaintiff. Certain other remedies are also available which will
+be considered when the various torts are separately dealt with.
+A person who commits a tort is called a tortfeasor. Where two or more persons commit a tort, they are
+known as joint tortfeasors. They may be sued jointly, or any one of them may be sued for the whole of
+the damage. In case of the joint tortfeasors, there is a right of contribution, under which the court may
+apportion the damages between them in such a way as is just, having regard to their respective degrees
+of blame (Law Reform Act (Cap. 26, section 3).
+FUNCTION OF THE LAW OF TORTS
+The primary function of the law of torts is to compensate persons injured by the civil wrongs of others, by
+compelling the tortfeasor to pay for the damage occasioned by his tort. Besides this, there are certain
+other functions and these include the following:
+1. To determine rights between parties to a dispute. A party to a dispute may bring an action for a
+declaration of his rights; and once the court makes a declaration, the rights of the parties are
+determined.
+2. To prevent a Continuance or Repetition of Harm. Where the injury complained of is of a
+continuous nature or likely to be repeated by the tortfeasor, the injured party may be granted an
+injunction to prevent its continuance or repetition, e.g. in cases of trespass to land.
+3. To Protect Certain Rights Recognized by Law. There are certain rights which every individual is
+entitled to and which are recognized by law. These rights are protected by the law of torts e.g. a person’s
+1
+reputation or right to good name is protected by the tort for negligence which imposes a duty of care on
+every other person.
+4. To Restore Property to its Rightful Owner. Where property is wrongfully taken away from its
+rightful owner or otherwise dealt with contrary to his rights, he may seek a restitution of the property or
+its value since the wrongful act amounts to the tort of trespass to goods (or land).
+MALICE
+Malice means ill-will or desire to cause damage to someone. In legal sense, malice means a wrongful act
+which is done purposely without having a lawful excuse. In tort, the intention or motive for an action is
+generally irrelevant. The general rule is that a bad intention does not make a lawful action as unlawful
+and similarly an innocent or good intention is not a defence to a tort.
+Bradford Corporation v. Pickles (1895).
+P, with a view to inducing Bradford Corporation to buy his land at a high price, sank a shaft on his land
+which interfered with the water flowing in undefined channels into the corporation reservoir. The
+corporation applied for an injunction to restrain P from collecting the underground water. Held: that an
+injunction would not lie. P was entitled as owner to draw from his land the underground water. His
+‘malice’, if any, in trying to force the purchase of land, was irrelevant. No use of property which would be
+legal if done with a proper motive can be illegal if done with an improper motive.
+Wilkinson v. Downton (1897).
+A, as a practical joke, told Mrs. B that her husband had met with an accident. Mrs. B suffered a nervous
+shock and was ill as a result. Mrs. B brought an action against A for false and malicious representation.
+The fact that A passed the information as a joke was irrelevant, and Mrs. B was entitled to damages.
+Malice in itself is not a tort, but it can be an important element in certain torts. Main examples of such
+torts are: Malicious prosecution, malicious falsehood, defamation, conspiracy and in certain cases,
+nuisance.
+NATURE OF TORTIOUS LIABILITY
+We have already stated that a tort is a civil wrong which is usually remedied by an award of unliquidated
+damages. Prof. P.H. Winfield asserts that “tortuous liability arises from the breach of a duty primarily
+fixed by law; such duty is towards persons generally, and its breach is redressible by an action for
+unliquidated damages”.
+Every person is under a duty to compensate for his wrongful acts which have resulted in injury to another
+person. It is this duty to compensate that determines his liability in tort. Generally, the plaintiff must
+prove that he has suffered harm and that there has in consequence been a violation of his legal right.
+Some civil wrongs are actionable even if no damage is suffered e.g. trespass to land. Whether the plaintiff
+has any remedy in some cases of tort depends on the following two principles of general application:-
+1. Damnum sine injuria:
+2
+Literally translated, this phrase means “Harm without legal injury.” It refers to a circumstance where a
+person has suffered actual harm without any violation of his legal right. A person aggrieved in this way
+has no legal remedy:
+Mogul Steamship Co. v. McGregor, Gow& Co. (1982).
+Certain ship-owners reduced their freight charges for the sole purpose of driving their rival out of
+business. The plaintiff, who had thus been driven out of business, brought an action against the ship-
+owners. Held: A trader ruined by the legitimate competition of his rivals could have no redress in tort.
+2. Injuria sine damno
+This refers to a situation where a person suffers a violation of his right without any actual loss or damage
+sustained by Him. This is especially so in the case of torts which are actionable “per’ se’ (i.e. without
+proof of any damage) e.g. trespass to land, libel etc.
+The Court can award the damages to the plaintiff in such cases.
+Ashby v. White, (1703)
+In this case the defendant, a returning officer, wrongfully refused to register a properly tendered vote of
+the plaintiff who was a legally qualified voter. In spite of this, the candidate for whom the vote was
+tendered was elected, and no loss was suffered by the rejection of the vote. It was held that the
+defendant was liable because he deprived the plaintiff of his legal right of registering his vote.
+The tortious liability can be also determined on the basis of the following principle:
+The Fault principle
+Most torts are based on the fault principle. Under this principle, it is necessary to establish some fault on
+the part of the wrongdoer because he can be made liable in tort. A person is said to be at fault where he
+fails to live up to some ideal standard of conduct set by law. Three elements are relevant in the
+determination of fault, and any one of them may be relied upon:-
+(i) Intention:
+Where a person does a wrongful act desiring that its consequences should follow, he is said to have
+intended it; and to that extent there is some amount of fault on his part.
+(ii) Recklessness:
+An act is said to be done recklessness where it is done without caring whatever its consequences might
+be. Recklessness, as such, constitutes fault on the part of the wrongdoer.
+(iii) Negligence
+3
+A person is also a fault where he does a wrongful act negligently i.e. where the circumstances are such
+that he ought to have foreseen the consequences of his act and avoided it altogether. (Here, we are
+concerned with negligence as an element of fault).
+Distinction between Tort, Crime and Breach of Contract
+We may distinguish between a tort, a crime and a breach of contract as under:
+(i) Tort and Crime
+A crime is a breach of public rights whereas a tort is a civil wrong. The main object of criminal proceeding
+is the punishment to the criminal persons but the object of proceedings in tort is not punishment. Its
+main aim is the compensation to the plaintiff for the loss or injury caused by the defendant i.e. damages.
+Some cases may be actionable under criminal law and law of torts e.g. if ‘A’ assaults ‘B’, there is both a
+crime and a tort.
+(ii) Tort and Breach of Contract:
+In contract, the duties are fixed by the parties to a contract. But in tort, the duties are fixed by law
+(common law or statute). In some cases, a breach of contract and tort may take place simultaneously. We
+assume ‘X’ employs a private surgeon to operate his wife. If ‘Y’ fails to perform his duty properly then ‘X’
+has a cause of action against ‘Y’ for (i) breach of the contractual duty of care, and (ii) the tort of
+negligence.
+4

@@ -1,0 +1,52 @@
+# Python / uv
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+.uv/
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+.turbo/
+*.tsbuildinfo
+
+# Env & local
+.env
+.env.*.local
+.DS_Store
+frontend/.env.local
+
+# Data artifacts
+data/vector_db/*
+
+# IDE
+.idea/
+.vscode/
+
+# Documentation
+Backend_walkthrough.md
+#PROJECT_WALKTHROUGH.md
+Rubric.md
+docs/archive/*
+
+# Database
+backend/*.db
+
+# Terraform
+*.tfvars
+!*.tfvars.example
+.terraform/
+.terraform.**
+terraform.tfstate.d/
+*.tfstate
+*.tfstate.backup
+
+# Coverage
+backend/*.coverage

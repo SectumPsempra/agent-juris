@@ -1,0 +1,104 @@
+# Deploy job requires repository (or environment "dev") secrets:
+#   GCP_PROJECT_ID
+#   GCP_WIF_PROVIDER          - Workload Identity Federation provider resource name
+#   GCP_WIF_SERVICE_ACCOUNT   - Deployer service account email (impersonated by WIF)
+# Optional repository variable: GCP_REGION (default: europe-west1)
+#
+# Grant the deploy service account at least:
+#   roles/run.admin
+#   roles/artifactregistry.writer
+#   roles/iam.serviceAccountUser  (on the Cloud Run runtime SA if updates fail with actAs)
+
+name: Backend Deploy
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "backend/**"
+      - ".github/workflows/backend-deploy.yml"
+  pull_request:
+    paths:
+      - "backend/**"
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: backend
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v4
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Compile check
+        run: uv run python -m compileall src
+
+      - name: Lint (ruff)
+        run: uv run ruff check src tests
+
+      - name: Type check (mypy)
+        run: uv run mypy src --ignore-missing-imports
+
+      - name: Test with coverage
+        run: >
+          uv run pytest tests/
+          --cov=src
+          --cov-report=term-missing
+          --cov-fail-under=70
+          -q
+        env:
+          OPENAI_API_KEY: dummy-key-for-tests
+
+  deploy:
+    needs: [test]
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    environment: dev
+    permissions:
+      contents: read
+      id-token: write
+    env:
+      GCP_REGION: ${{ vars.GCP_REGION || 'europe-west1' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Authenticate to Google Cloud
+        uses: google-github-actions/auth@v2
+        with:
+          project_id: ${{ secrets.GCP_PROJECT_ID }}
+          workload_identity_provider: ${{ secrets.GCP_WIF_PROVIDER }}
+          service_account: ${{ secrets.GCP_WIF_SERVICE_ACCOUNT }}
+
+      - name: Set up Cloud SDK
+        uses: google-github-actions/setup-gcloud@v2
+
+      - name: Configure Docker for Artifact Registry
+        run: gcloud auth configure-docker "${GCP_REGION}-docker.pkg.dev" --quiet
+
+      - name: Build, push, and deploy to Cloud Run
+        env:
+          GCP_PROJECT_ID: ${{ secrets.GCP_PROJECT_ID }}
+        run: |
+          set -euo pipefail
+          IMAGE="${GCP_REGION}-docker.pkg.dev/${GCP_PROJECT_ID}/litigation-backend/litigation-backend"
+          TAG="${{ github.sha }}"
+          docker build --platform linux/amd64 -t "${IMAGE}:${TAG}" -t "${IMAGE}:latest" ./backend
+          docker push "${IMAGE}:${TAG}"
+          docker push "${IMAGE}:latest"
+          gcloud run services update litigation-backend \
+            --project="${GCP_PROJECT_ID}" \
+            --region="${GCP_REGION}" \
+            --image="${IMAGE}:${TAG}" \
+            --quiet

@@ -1,0 +1,145 @@
+[
+  {
+    "id": "land-001",
+    "description": "Land sale specific performance — part performance",
+    "case_text": "On 15 March 2023, John Kamau entered into a written agreement with Sarah Wanjiru for the sale of land parcel No. 123/456 in Kiambu County for KES 5,000,000. John paid a deposit of KES 500,000 on the same day and was given possession of the land. Sarah has since refused to execute the transfer documents, claiming the agreement is void for non-compliance with section 3(3) of the Law of Contract Act. John now seeks specific performance and damages.",
+    "expected": {
+      "min_core_facts": 4,
+      "required_entity_names": ["John Kamau", "Sarah Wanjiru", "Kiambu County"],
+      "required_entity_types": ["person", "place"],
+      "min_timeline_events": 2,
+      "timeline_must_contain_date_prefix": "2023-03-15",
+      "expected_keywords_in_facts": ["KES 5,000,000", "deposit", "transfer documents"]
+    }
+  },
+  {
+    "id": "supply-001",
+    "description": "Government procurement — unpaid supply of goods",
+    "case_text": "On 3 June 2021, Wanjiru Holdings Ltd entered into a written contract with the Nairobi County Government for the supply of 500 school desks to Pumwani Primary School at KES 1,250,000. The County issued LPO No. NPG/2021/0034 on 10 June 2021. Wanjiru delivered the desks on 30 June 2021 and issued Invoice No. WHL/INV/2021/089. The County has not paid despite two formal demand letters dated 15 August 2021 and 1 October 2021. Wanjiru now seeks to recover the outstanding balance with interest.",
+    "expected": {
+      "min_core_facts": 4,
+      "required_entity_names": ["Wanjiru Holdings Ltd", "Nairobi County Government"],
+      "required_entity_types": ["company", "government_body"],
+      "min_timeline_events": 4,
+      "timeline_must_contain_date_prefix": "2021-06-03",
+      "expected_keywords_in_facts": ["KES 1,250,000", "demand letters", "delivered"]
+    }
+  },
+  {
+    "id": "employment-001",
+    "description": "Unfair termination — summary dismissal without notice",
+    "case_text": "Grace Muthoni was employed as Senior Accountant by Apex Developers Ltd under a written contract dated 1 January 2020. On 5 September 2023 she was summarily dismissed via a letter citing 'gross misconduct' without a prior disciplinary hearing or show-cause notice. Grace had no prior disciplinary record. Her final salary of KES 180,000 for August 2023 was not paid. She now claims unfair termination, unpaid salary, and three months notice pay under the Employment Act, 2007.",
+    "expected": {
+      "min_core_facts": 4,
+      "required_entity_names": ["Grace Muthoni", "Apex Developers Ltd"],
+      "required_entity_types": ["person", "company"],
+      "min_timeline_events": 2,
+      "timeline_must_contain_date_prefix": "2023-09-05",
+      "expected_keywords_in_facts": ["dismissal", "disciplinary", "KES 180,000"]
+    }
+  },
+  {
+    "id": "arb-001",
+    "description": "Arbitration — court proceedings filed despite arbitration clause",
+    "case_text": "Savannah Logistics Ltd and Rift Valley Warehousing Ltd entered into a warehousing services agreement on 2 February 2022. Clause 18 of the agreement required all disputes to be referred to arbitration under the Arbitration Act, Cap 49, with the seat in Nairobi. On 14 November 2023 Savannah filed suit in the High Court at Nairobi claiming KES 3,200,000 for loss of goods damaged during storage. Rift Valley filed an application under section 6 of the Arbitration Act seeking a stay of the court proceedings and referral of the dispute to arbitration. Savannah argues the arbitration clause is null because Rift Valley was in breach of contract at the time the clause was invoked. Rift Valley denies breach and insists the clause is binding.",
+    "expected": {
+      "min_core_facts": 4,
+      "required_entity_names": ["Savannah Logistics Ltd", "Rift Valley Warehousing Ltd"],
+      "required_entity_types": ["company"],
+      "min_timeline_events": 3,
+      "timeline_must_contain_date_prefix": "2022-02-02",
+      "expected_keywords_in_facts": ["arbitration", "stay", "KES 3,200,000"]
+    }
+  },
+  {
+    "id": "tort-001",
+    "description": "Negligence — construction site injury, occupier's liability",
+    "case_text": "Peter Otieno was employed as a casual labourer by Nyati Construction Ltd on a building site in Westlands, Nairobi. On 8 June 2023, while working on the third floor, Peter fell through an unmarked gap in the floor slab that had not been cordoned off or signed. He sustained a fractured spine and is now partially paralysed. Peter had not been provided with a safety harness or any personal protective equipment. Nyati Construction Ltd claims Peter was warned verbally about the hazard, a claim Peter denies. Peter seeks general damages for pain and suffering, special damages for medical expenses of KES 450,000, and loss of future earnings.",
+    "expected": {
+      "min_core_facts": 4,
+      "required_entity_names": ["Peter Otieno", "Nyati Construction Ltd", "Westlands"],
+      "required_entity_types": ["person", "company", "place"],
+      "min_timeline_events": 2,
+      "timeline_must_contain_date_prefix": "2023-06-08",
+      "expected_keywords_in_facts": ["negligence", "KES 450,000", "protective equipment"]
+    }
+  },
+  {
+    "id": "lim-001",
+    "description": "Limitation of actions — contract debt claim filed out of time",
+    "case_text": "On 1 March 2014, Baraka Hardware Ltd supplied building materials worth KES 920,000 to Odhiambo Estates Ltd under a written credit agreement, with payment due within 60 days. Odhiambo Estates failed to pay. Baraka sent demand letters on 15 May 2014 and 3 August 2014, both of which were acknowledged in writing by Odhiambo Estates. No payment was made. On 10 November 2022, Baraka filed suit in the High Court to recover the outstanding principal and accrued interest. Odhiambo Estates has filed a preliminary objection arguing the claim is statute-barred under section 4 of the Limitation of Actions Act, as more than six years elapsed from the date payment fell due. Baraka argues the written acknowledgements of 2014 restarted the limitation period under section 23 of the Act.",
+    "expected": {
+      "min_core_facts": 4,
+      "required_entity_names": ["Baraka Hardware Ltd", "Odhiambo Estates Ltd"],
+      "required_entity_types": ["company"],
+      "min_timeline_events": 4,
+      "timeline_must_contain_date_prefix": "2014-03-01",
+      "expected_keywords_in_facts": ["limitation", "KES 920,000", "acknowledgement"]
+    }
+  },
+  {
+    "id": "succ-001",
+    "description": "Succession — contested will, undue influence and lack of capacity",
+    "case_text": "James Muriuki Njenga, a retired civil servant, died on 22 October 2022 in Nyeri County. He left a written will dated 5 September 2022 that bequeathed his entire estate, valued at approximately KES 12,000,000, to his youngest daughter Eunice Njenga, to the exclusion of his three other adult children. The other children, led by firstborn David Njenga, filed a petition challenging the will in the High Court Probate and Administration Division. They allege that at the time of making the will, their father was suffering from advanced dementia and lacked testamentary capacity under section 5 of the Succession Act. They also allege that Eunice, who was his primary caregiver, exerted undue influence over him. Eunice denies both allegations and has produced a letter from a general practitioner dated 3 September 2022 stating that James was of sound mind.",
+    "expected": {
+      "min_core_facts": 5,
+      "required_entity_names": ["James Muriuki Njenga", "Eunice Njenga", "David Njenga", "Nyeri County"],
+      "required_entity_types": ["person", "place"],
+      "min_timeline_events": 3,
+      "timeline_must_contain_date_prefix": "2022-09-05",
+      "expected_keywords_in_facts": ["will", "undue influence", "testamentary capacity", "KES 12,000,000"]
+    }
+  },
+  {
+    "id": "marr-001",
+    "description": "Marriage — nullity petition, subsisting marriage not disclosed",
+    "case_text": "Amina Hassan and Ibrahim Salim celebrated a civil marriage at the Mombasa Registrar of Marriages on 14 February 2020. Amina was unaware at the time that Ibrahim had contracted a prior civil marriage with one Fatuma Omar in 2015, which had never been dissolved. Amina discovered the prior subsisting marriage in January 2024 after Fatuma filed a succession claim against Ibrahim's estate following his death. Amina now seeks a declaration that her marriage to Ibrahim is void ab initio under section 11(a) of the Marriage Act on the grounds that Ibrahim was incapable of marriage due to a prior subsisting civil marriage. She also seeks ancillary relief relating to matrimonial property acquired jointly during the marriage.",
+    "expected": {
+      "min_core_facts": 4,
+      "required_entity_names": ["Amina Hassan", "Ibrahim Salim", "Fatuma Omar", "Mombasa"],
+      "required_entity_types": ["person", "place"],
+      "min_timeline_events": 3,
+      "timeline_must_contain_date_prefix": "2020-02-14",
+      "expected_keywords_in_facts": ["void", "subsisting marriage", "nullity"]
+    }
+  },
+  {
+    "id": "cpa-001",
+    "description": "Civil Procedure — res judicata, second suit on same cause of action",
+    "case_text": "In 2019, Kipchoge Investments Ltd filed suit against Meridian Bank Ltd in the Nairobi High Court claiming KES 8,500,000 for wrongful dishonour of cheques, causing loss of a business deal. The suit was heard on its merits and dismissed by the High Court in a judgment delivered on 3 March 2021. Kipchoge did not appeal. On 10 January 2024, Kipchoge filed a fresh suit in the Commercial Division raising substantially the same facts and same cause of action but framing the claim as one in tort for negligence. Meridian Bank has filed a preliminary objection that the second suit is barred by res judicata under section 7 of the Civil Procedure Act, as the matter was directly and substantially in issue in the earlier suit, which was decided by a competent court between the same parties.",
+    "expected": {
+      "min_core_facts": 4,
+      "required_entity_names": ["Kipchoge Investments Ltd", "Meridian Bank Ltd"],
+      "required_entity_types": ["company"],
+      "min_timeline_events": 3,
+      "timeline_must_contain_date_prefix": "2021-03-03",
+      "expected_keywords_in_facts": ["res judicata", "KES 8,500,000", "dismissed"]
+    }
+  },
+  {
+    "id": "const-001",
+    "description": "Constitutional petition — unlawful termination, right to fair hearing",
+    "case_text": "Dr. Naliaka Simiyu was employed as a consultant physician at Eldoret General Hospital, a public facility run by Uasin Gishu County Government, under a three-year renewable contract. On 2 May 2023, she was issued a letter of termination citing 'restructuring' with immediate effect and no compensation. She had not been given any show-cause notice, opportunity to be heard, or reasons for her termination. Dr. Simiyu filed a constitutional petition under Article 22 and Article 50(1) of the Constitution of Kenya 2010, alleging violation of her right to fair administrative action under Article 47 and her right to fair hearing before termination. She also alleges the termination was linked to her public complaint about inadequate medical supplies at the hospital, engaging her freedom of expression under Article 33.",
+    "expected": {
+      "min_core_facts": 4,
+      "required_entity_names": ["Dr. Naliaka Simiyu", "Eldoret General Hospital", "Uasin Gishu County Government"],
+      "required_entity_types": ["person", "government_body", "place"],
+      "min_timeline_events": 2,
+      "timeline_must_contain_date_prefix": "2023-05-02",
+      "expected_keywords_in_facts": ["fair hearing", "Article 47", "termination", "constitutional petition"]
+    }
+  },
+  {
+    "id": "proc-001",
+    "description": "Public procurement — irregular tender award, challenge by aggrieved bidder",
+    "case_text": "Silverline Technologies Ltd submitted a tender for the supply and installation of ICT equipment at Kenya Revenue Authority offices, Tender No. KRA/ICT/2023/041, with a bid of KES 47,000,000. The tender was awarded to Maxcom Solutions Ltd at KES 52,000,000, despite Maxcom's bid being higher and Silverline having scored higher on the technical evaluation. Silverline filed a request for review before the Public Procurement Administrative Review Board under section 167 of the Public Procurement and Asset Disposal Act, arguing that the evaluation committee failed to apply the criteria set out in the tender documents, and that Maxcom did not meet the mandatory technical specifications. KRA contends the award was based on additional undisclosed evaluation factors permitted under the tender regulations.",
+    "expected": {
+      "min_core_facts": 4,
+      "required_entity_names": ["Silverline Technologies Ltd", "Maxcom Solutions Ltd", "Kenya Revenue Authority"],
+      "required_entity_types": ["company", "government_body"],
+      "min_timeline_events": 2,
+      "timeline_must_contain_date_prefix": "2023",
+      "expected_keywords_in_facts": ["tender", "KES 47,000,000", "evaluation", "review"]
+    }
+  }
+]
